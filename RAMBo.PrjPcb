@@ -165,6 +165,22 @@ DItemRevisionGUID=
 DocumentPath=RAMBo.LOG
 DItemRevisionGUID=
 
+[Parameter1]
+Name=
+Value=
+
+[Parameter2]
+Name=ProjectTitle
+Value=RAMBo
+
+[Parameter3]
+Name=projectBoardVersion
+Value=1.5
+
+[Parameter4]
+Name=projectBoardRevision
+Value=a
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0

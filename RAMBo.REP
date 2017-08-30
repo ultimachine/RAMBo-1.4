@@ -1,0 +1,2509 @@
+Teardrop Report RAMBo.PcbDoc
+On 8/29/2017 at 11:37:32 AM
+
+Pads visited                : 1350
+
+Vias visited                : 1124
+
+Pad teardrops failed : 8
+
+Pad X20-1(3705mil,2375.61mil) on Multi-Layer
+Pad X20-2(3605mil,2375.61mil) on Multi-Layer
+Pad X20-3(3505mil,2375.61mil) on Multi-Layer
+Pad X20-4(3405mil,2375.61mil) on Multi-Layer
+Pad X20-5(3305mil,2375.61mil) on Multi-Layer
+Pad X31-1(3705mil,2475.61mil) on Multi-Layer
+Pad X31-2(3605mil,2475.61mil) on Multi-Layer
+Pad X31-3(3505mil,2475.61mil) on Multi-Layer
+Pad X31-4(3405mil,2475.61mil) on Multi-Layer
+Pad X31-5(3305mil,2475.61mil) on Multi-Layer
+Pad X32-1(3705mil,2575.61mil) on Multi-Layer
+Pad X32-2(3605mil,2575.61mil) on Multi-Layer
+Pad X32-3(3505mil,2575.61mil) on Multi-Layer
+Pad X32-4(3405mil,2575.61mil) on Multi-Layer
+Pad X32-5(3305mil,2575.61mil) on Multi-Layer
+Pad TP3-TP(1315mil,1995mil) on Multi-Layer
+Pad TP2-TP(1423.62mil,2015.32mil) on Multi-Layer
+Pad TP1-TP(1316.06mil,2089.33mil) on Multi-Layer
+Pad TP4-TP(1889.31mil,2001mil) on Multi-Layer
+Pad TP6-TP(2113.38mil,2008.75mil) on Multi-Layer
+Pad TP5-TP(2006.25mil,2160mil) on Multi-Layer
+Pad TP0-TP(2006.93mil,2043.56mil) on Multi-Layer
+Pad TP7-TP(2601.32mil,2077.63mil) on Multi-Layer
+Pad TP9-TP(2907.5mil,1993.75mil) on Multi-Layer
+Pad TP8-TP(2811.38mil,2024.07mil) on Multi-Layer
+Pad TP19-TP(2702.13mil,2007.64mil) on Multi-Layer
+Pad TP10-TP(3321.25mil,2035mil) on Multi-Layer
+Pad TP12-TP(3543.06mil,2010.43mil) on Multi-Layer
+Pad TP13-TP(3618.95mil,1999.6mil) on Multi-Layer
+Pad TP11-TP(3473.75mil,2080mil) on Multi-Layer
+Pad TP14-TP(4077.5mil,2025mil) on Multi-Layer
+Pad TP17-TP(4277.37mil,2005.75mil) on Multi-Layer
+Pad TP16-TP(4183.44mil,2033.5mil) on Multi-Layer
+Pad TP15-TP(4129.63mil,2191.25mil) on Multi-Layer
+Pad TP18-TP(4821.75mil,1697.5mil) on Multi-Layer
+Pad X35-1(1700mil,4400mil) on Multi-Layer
+Pad X35-2(1800mil,4400mil) on Multi-Layer
+Pad X36-1(1900mil,4400mil) on Multi-Layer
+Pad X36-2(2000mil,4400mil) on Multi-Layer
+Pad X37-1(2100mil,4400mil) on Multi-Layer
+Pad X37-2(2200mil,4400mil) on Multi-Layer
+Pad X38-1(3425mil,4400mil) on Multi-Layer
+Pad X38-2(3525mil,4400mil) on Multi-Layer
+Pad H3-0(1150mil,4900mil) on Multi-Layer
+Pad H3-1(1150mil,4800mil) on Multi-Layer
+Pad H3-1(1150mil,5000mil) on Multi-Layer
+Pad H3-1(1250mil,4900mil) on Multi-Layer
+Pad H3-1(1050mil,4900mil) on Multi-Layer
+Pad H3-1(1080mil,4970mil) on Multi-Layer
+Pad H3-1(1220mil,4970mil) on Multi-Layer
+Pad H3-1(1220mil,4830mil) on Multi-Layer
+Pad H3-1(1080mil,4830mil) on Multi-Layer
+Pad H4-0(4950mil,4900mil) on Multi-Layer
+Pad H4-1(4950mil,4800mil) on Multi-Layer
+Pad H4-1(4950mil,5000mil) on Multi-Layer
+Pad H4-1(5050mil,4900mil) on Multi-Layer
+Pad H4-1(4850mil,4900mil) on Multi-Layer
+Pad H4-1(4880mil,4970mil) on Multi-Layer
+Pad H4-1(5020mil,4970mil) on Multi-Layer
+Pad H4-1(5020mil,4830mil) on Multi-Layer
+Pad H4-1(4880mil,4830mil) on Multi-Layer
+Pad H2-0(4950mil,1150mil) on Multi-Layer
+Pad H2-1(4950mil,1050mil) on Multi-Layer
+Pad H2-1(4950mil,1250mil) on Multi-Layer
+Pad H2-1(5050mil,1150mil) on Multi-Layer
+Pad H2-1(4850mil,1150mil) on Multi-Layer
+Pad H2-1(4880mil,1220mil) on Multi-Layer
+Pad H2-1(5020mil,1220mil) on Multi-Layer
+Pad H2-1(5020mil,1080mil) on Multi-Layer
+Pad H2-1(4880mil,1080mil) on Multi-Layer
+Pad X18-1(2587.5mil,3712.5mil) on Multi-Layer
+Pad X18-2(2587.5mil,3812.5mil) on Multi-Layer
+Pad X18-3(2687.5mil,3712.5mil) on Multi-Layer
+Pad X18-4(2687.5mil,3812.5mil) on Multi-Layer
+Pad X18-5(2787.5mil,3712.5mil) on Multi-Layer
+Pad X18-6(2787.5mil,3812.5mil) on Multi-Layer
+Pad X8-1(1750mil,1133mil) on Multi-Layer
+Pad X8-2(1650mil,1133mil) on Multi-Layer
+Pad X8-3(1550mil,1133mil) on Multi-Layer
+Pad X8-4(1450mil,1133mil) on Multi-Layer
+Pad X4-1(2347.34mil,1133mil) on Multi-Layer
+Pad X4-2(2247.34mil,1133mil) on Multi-Layer
+Pad X4-3(2147.34mil,1133mil) on Multi-Layer
+Pad X4-4(2047.34mil,1133mil) on Multi-Layer
+Pad X14-1(2947.34mil,1133mil) on Multi-Layer
+Pad X14-2(2847.34mil,1133mil) on Multi-Layer
+Pad X14-3(2747.34mil,1133mil) on Multi-Layer
+Pad X14-4(2647.34mil,1133mil) on Multi-Layer
+Pad X6-1(4047.34mil,1133mil) on Multi-Layer
+Pad X6-2(3947.34mil,1133mil) on Multi-Layer
+Pad X6-3(3847.34mil,1133mil) on Multi-Layer
+Pad X6-4(3747.34mil,1133mil) on Multi-Layer
+Pad X7-1(4647.34mil,1133mil) on Multi-Layer
+Pad X7-2(4547.34mil,1133mil) on Multi-Layer
+Pad X7-3(4447.34mil,1133mil) on Multi-Layer
+Pad X7-4(4347.34mil,1133mil) on Multi-Layer
+Pad X21-3(1925mil,2700mil) on Multi-Layer
+Pad X21-2(2025mil,2700mil) on Multi-Layer
+Pad X21-1(2125mil,2700mil) on Multi-Layer
+Pad X22-3(1525mil,2700mil) on Multi-Layer
+Pad X22-2(1625mil,2700mil) on Multi-Layer
+Pad X22-1(1725mil,2700mil) on Multi-Layer
+Pad X23-3(1125mil,2700mil) on Multi-Layer
+Pad X23-2(1225mil,2700mil) on Multi-Layer
+Pad X23-1(1325mil,2700mil) on Multi-Layer
+Pad X24-3(2125mil,2450mil) on Multi-Layer
+Pad X24-2(2025mil,2450mil) on Multi-Layer
+Pad X24-1(1925mil,2450mil) on Multi-Layer
+Pad X25-3(1725mil,2450mil) on Multi-Layer
+Pad X25-2(1625mil,2450mil) on Multi-Layer
+Pad X25-1(1525mil,2450mil) on Multi-Layer
+Pad X27-2(4047mil,2749mil) on Multi-Layer
+Pad X27-1(4047mil,2849mil) on Multi-Layer
+Pad X28-2(4044mil,2437mil) on Multi-Layer
+Pad X28-1(4044mil,2537mil) on Multi-Layer
+Pad X29-2(4451mil,2761mil) on Multi-Layer
+Pad X29-1(4451mil,2861mil) on Multi-Layer
+Pad X30-2(4971.95mil,1437.25mil) on Multi-Layer
+Pad X30-1(4971.95mil,1537.25mil) on Multi-Layer
+Pad C65--(4512.5mil,4135mil) on Multi-Layer
+Pad C65-+(4372.5mil,4135mil) on Multi-Layer
+Pad X1-2(1218.75mil,4618.75mil) on Multi-Layer
+Pad X1-1(1118.75mil,4618.75mil) on Multi-Layer
+Pad X5-2(4804mil,3150mil) on Multi-Layer
+Pad X5-1(4804mil,3050mil) on Multi-Layer
+Pad X3-2(4451mil,2447mil) on Multi-Layer
+Pad X3-1(4451mil,2547mil) on Multi-Layer
+Pad H1-0(1150mil,1150mil) on Multi-Layer
+Pad H1-1(1150mil,1050mil) on Multi-Layer
+Pad H1-1(1150mil,1250mil) on Multi-Layer
+Pad H1-1(1250mil,1150mil) on Multi-Layer
+Pad H1-1(1050mil,1150mil) on Multi-Layer
+Pad H1-1(1080mil,1220mil) on Multi-Layer
+Pad H1-1(1220mil,1220mil) on Multi-Layer
+Pad H1-1(1220mil,1080mil) on Multi-Layer
+Pad H1-1(1080mil,1080mil) on Multi-Layer
+Pad JP3-1(4525mil,4370mil) on Multi-Layer
+Pad JP3-2(4425mil,4370mil) on Multi-Layer
+Pad C76-+(4825mil,2410.93mil) on Multi-Layer
+Pad C76--(4825mil,2214.07mil) on Multi-Layer
+Pad X40-1(3817mil,3052mil) on Multi-Layer
+Pad X40-2(3717mil,3052mil) on Multi-Layer
+Pad X40-3(3817mil,3152mil) on Multi-Layer
+Pad X40-4(3717mil,3152mil) on Multi-Layer
+Pad X40-5(3817mil,3252mil) on Multi-Layer
+Pad X40-6(3717mil,3252mil) on Multi-Layer
+Pad X40-7(3817mil,3352mil) on Multi-Layer
+Pad X40-8(3717mil,3352mil) on Multi-Layer
+Pad X9-2(2742.5mil,4220mil) on Multi-Layer
+Pad X9-1(2642.5mil,4220mil) on Multi-Layer
+Pad X11-1(1450mil,4700mil) on Multi-Layer
+Pad X11-2(1650mil,4700mil) on Multi-Layer
+Pad X11-3(1850mil,4700mil) on Multi-Layer
+Pad X11-4(2050mil,4700mil) on Multi-Layer
+Pad X11-5(2250mil,4700mil) on Multi-Layer
+Pad X11-6(2450mil,4700mil) on Multi-Layer
+Pad X11-7(2650mil,4700mil) on Multi-Layer
+Pad X11-8(2850mil,4700mil) on Multi-Layer
+Pad X11-9(3050mil,4700mil) on Multi-Layer
+Pad X11-10(3250mil,4700mil) on Multi-Layer
+Pad X16-1(2262.5mil,3787.5mil) on Multi-Layer
+Pad X16-2(2262.5mil,3687.5mil) on Multi-Layer
+Pad X16-3(2162.5mil,3787.5mil) on Multi-Layer
+Pad X16-4(2162.5mil,3687.5mil) on Multi-Layer
+Pad X16-5(2062.5mil,3787.5mil) on Multi-Layer
+Pad X16-6(2062.5mil,3687.5mil) on Multi-Layer
+Pad X16-7(1962.5mil,3787.5mil) on Multi-Layer
+Pad X16-8(1962.5mil,3687.5mil) on Multi-Layer
+Pad X16-9(1862.5mil,3787.5mil) on Multi-Layer
+Pad X16-10(1862.5mil,3687.5mil) on Multi-Layer
+Pad X16-11(1762.5mil,3787.5mil) on Multi-Layer
+Pad X16-12(1762.5mil,3687.5mil) on Multi-Layer
+Pad X16-13(1662.5mil,3787.5mil) on Multi-Layer
+Pad X16-14(1662.5mil,3687.5mil) on Multi-Layer
+Pad X16-15(1562.5mil,3787.5mil) on Multi-Layer
+Pad X16-16(1562.5mil,3687.5mil) on Multi-Layer
+Pad X39-1(2278.94mil,2625mil) on Multi-Layer
+Pad X39-2(2278.94mil,2725mil) on Multi-Layer
+Pad X39-3(2378.94mil,2625mil) on Multi-Layer
+Pad X39-4(2378.94mil,2725mil) on Multi-Layer
+Pad X39-5(2478.94mil,2625mil) on Multi-Layer
+Pad X39-6(2478.94mil,2725mil) on Multi-Layer
+Pad X39-7(2578.94mil,2625mil) on Multi-Layer
+Pad X39-8(2578.94mil,2725mil) on Multi-Layer
+Pad X39-9(2678.94mil,2625mil) on Multi-Layer
+Pad X39-10(2678.94mil,2725mil) on Multi-Layer
+Pad TP24-1(5015.35mil,4666.14mil) on Multi-Layer
+Pad X15-1(3447.34mil,1133mil) on Multi-Layer
+Pad X15-2(3347.34mil,1133mil) on Multi-Layer
+Pad X15-3(3247.34mil,1133mil) on Multi-Layer
+Pad X15-4(3147.34mil,1133mil) on Multi-Layer
+Pad X10-3(2536.71mil,2450mil) on Multi-Layer
+Pad X10-2(2436.71mil,2450mil) on Multi-Layer
+Pad X10-1(2336.71mil,2450mil) on Multi-Layer
+Pad X10-4(2636.71mil,2450mil) on Multi-Layer
+Pad C66--(3550mil,4870mil) on Multi-Layer
+Pad C66-+(3550mil,4730mil) on Multi-Layer
+Pad X34-1(3000mil,3825mil) on Multi-Layer
+Pad X34-2(3100mil,3825mil) on Multi-Layer
+Pad X34-3(3200mil,3825mil) on Multi-Layer
+Pad X34-4(3300mil,3825mil) on Multi-Layer
+Pad X34-5(3400mil,3825mil) on Multi-Layer
+Pad X34-6(3500mil,3825mil) on Multi-Layer
+Pad X33-1(4770mil,3400mil) on Multi-Layer
+Pad X33-2(4770mil,3600mil) on Multi-Layer
+Pad X33-6(4770mil,4400mil) on Multi-Layer
+Pad X33-3(4770mil,3800mil) on Multi-Layer
+Pad X33-4(4770mil,4000mil) on Multi-Layer
+Pad X33-5(4770mil,4200mil) on Multi-Layer
+Pad S1-1(1086mil,4224mil) on Multi-Layer
+Pad S1-2(1086mil,4046mil) on Multi-Layer
+Pad S1-3(1184mil,4273mil) on Multi-Layer
+Pad S1-4(1184mil,3997mil) on Multi-Layer
+Pad X26-3(1325mil,2450mil) on Multi-Layer
+Pad X26-2(1225mil,2450mil) on Multi-Layer
+Pad X26-1(1125mil,2450mil) on Multi-Layer
+Pad X17-1(2092.5mil,3367.5mil) on Multi-Layer
+Pad X17-2(2092.5mil,3467.5mil) on Multi-Layer
+Pad X17-3(2192.5mil,3367.5mil) on Multi-Layer
+Pad X17-4(2192.5mil,3467.5mil) on Multi-Layer
+Pad X17-5(2292.5mil,3367.5mil) on Multi-Layer
+Pad X17-6(2292.5mil,3467.5mil) on Multi-Layer
+Pad X2-1(1435.43mil,3250.79mil) on Multi-Layer
+Pad X2-2(1435.43mil,3349.21mil) on Multi-Layer
+Pad X2-3(1356.69mil,3349.21mil) on Multi-Layer
+Pad X2-4(1356.69mil,3250.79mil) on Multi-Layer
+Pad X2-P$1(1250mil,3536.22mil) on Multi-Layer
+Pad X2-P$2(1250mil,3063.78mil) on Multi-Layer
+Pad P2-10(4075mil,3475mil) on Multi-Layer
+Pad P2-9(4075mil,3575mil) on Multi-Layer
+Pad P2-8(4175mil,3475mil) on Multi-Layer
+Pad P2-7(4175mil,3575mil) on Multi-Layer
+Pad P2-6(4275mil,3475mil) on Multi-Layer
+Pad P2-5(4275mil,3575mil) on Multi-Layer
+Pad P2-4(4375mil,3475mil) on Multi-Layer
+Pad P2-3(4375mil,3575mil) on Multi-Layer
+Pad P2-2(4475mil,3475mil) on Multi-Layer
+Pad P2-1(4475mil,3575mil) on Multi-Layer
+Pad P1-10(4075mil,3102mil) on Multi-Layer
+Pad P1-9(4075mil,3202mil) on Multi-Layer
+Pad P1-8(4175mil,3102mil) on Multi-Layer
+Pad P1-7(4175mil,3202mil) on Multi-Layer
+Pad P1-6(4275mil,3102mil) on Multi-Layer
+Pad P1-5(4275mil,3202mil) on Multi-Layer
+Pad P1-4(4375mil,3102mil) on Multi-Layer
+Pad P1-3(4375mil,3202mil) on Multi-Layer
+Pad P1-2(4475mil,3102mil) on Multi-Layer
+Pad P1-1(4475mil,3202mil) on Multi-Layer
+Pad D39-K(4188mil,1571.74mil) on Top
+Pad D39-A(4188mil,1414mil) on Top
+Pad D38-K(4392mil,1456.74mil) on Top
+Pad D38-A(4392mil,1299mil) on Top
+Pad D37-K(4510mil,1456.74mil) on Top
+Pad D37-A(4510mil,1299mil) on Top
+Pad D36-K(4712mil,1571.74mil) on Top
+Pad D36-A(4712mil,1414mil) on Top
+Pad D35-K(3811mil,1456.74mil) on Top
+Pad D35-A(3811mil,1299mil) on Top
+Pad D34-K(4021mil,1571.74mil) on Top
+Pad D34-A(4021mil,1414mil) on Top
+Pad D33-K(3477mil,1571.74mil) on Top
+Pad D33-A(3477mil,1414mil) on Top
+Pad D32-K(3687mil,1456.74mil) on Top
+Pad D32-A(3687mil,1299mil) on Top
+Pad D31-K(3320mil,1571.74mil) on Top
+Pad D31-A(3320mil,1414mil) on Top
+Pad D30-K(3111mil,1467.74mil) on Top
+Pad D30-A(3111mil,1310mil) on Top
+Pad D29-K(2772mil,1571.74mil) on Top
+Pad D29-A(2772mil,1414mil) on Top
+Pad D28-K(2986mil,1467.74mil) on Top
+Pad D28-A(2986mil,1310mil) on Top
+Pad D27-K(2332mil,1456.74mil) on Top
+Pad D27-A(2332mil,1299mil) on Top
+Pad D26-K(2535mil,1571.74mil) on Top
+Pad D26-A(2535mil,1414mil) on Top
+Pad D25-K(2213mil,1456.74mil) on Top
+Pad D25-A(2213mil,1299mil) on Top
+Pad D24-K(2010mil,1571.74mil) on Top
+Pad D24-A(2010mil,1414mil) on Top
+Pad D23-K(1660mil,1457.74mil) on Top
+Pad D23-A(1660mil,1300mil) on Top
+Pad D22-K(1861mil,1474.26mil) on Top
+Pad D22-A(1861mil,1632mil) on Top
+Pad D21-K(1344mil,1575.74mil) on Top
+Pad D21-A(1344mil,1418mil) on Top
+Pad D20-C(4058.76mil,4180mil) on Top
+Pad D20-A(4216.24mil,4180mil) on Top
+Pad D10-C(3637.5mil,4568.74mil) on Top
+Pad D10-A(3637.5mil,4411.26mil) on Top
+Pad D9-K(1544mil,1457.74mil) on Top
+Pad D9-A(1544mil,1300mil) on Top
+Pad D6-C(1375mil,3896.26mil) on Top
+Pad D6-A(1375mil,4053.74mil) on Top
+Pad D3-C(1750mil,3896.26mil) on Top
+Pad D3-A(1750mil,4053.74mil) on Top
+Pad D1-C(2150mil,3896.26mil) on Top
+Pad D1-A(2150mil,4053.74mil) on Top
+Pad D8-K(4103.74mil,3820mil) on Top
+Pad D8-A(3946mil,3820mil) on Top
+Pad D2-K(4664.26mil,2871mil) on Top
+Pad D2-A(4822mil,2871mil) on Top
+Pad L4-2(4630mil,3929.102mil) on Top
+Pad L4-1(4630mil,3766.898mil) on Top
+Pad L1-1(4989mil,3080.102mil) on Top
+Pad L1-2(4989mil,2917.898mil) on Top
+Pad C92-2(3668.7mil,2658mil) on Top
+Pad C92-1(3631.3mil,2658mil) on Top
+Pad RV32-2(3852mil,3718.3mil) on Top
+Pad RV32-1(3852mil,3755.7mil) on Top
+Pad RV21-2(3615.3mil,2889mil) on Top
+Pad RV21-1(3652.7mil,2889mil) on Top
+Pad FB19-1(3615.1mil,2930mil) on Top
+Pad FB19-2(3652.9mil,2930mil) on Top
+Pad C3-1(3781mil,2846.7mil) on Top
+Pad C3-2(3781mil,2809.3mil) on Top
+Pad C96-1(3811.3mil,2976mil) on Top
+Pad C96-2(3848.7mil,2976mil) on Top
+Pad U2-100(3467.181mil,3536.22mil) on Top
+Pad U2-99(3467.181mil,3516.535mil) on Top
+Pad U2-98(3467.181mil,3496.85mil) on Top
+Pad U2-97(3467.181mil,3477.165mil) on Top
+Pad U2-96(3467.181mil,3457.48mil) on Top
+Pad U2-95(3467.181mil,3437.795mil) on Top
+Pad U2-94(3467.181mil,3418.11mil) on Top
+Pad U2-93(3467.181mil,3398.425mil) on Top
+Pad U2-92(3467.181mil,3378.74mil) on Top
+Pad U2-91(3467.181mil,3359.055mil) on Top
+Pad U2-90(3467.181mil,3339.37mil) on Top
+Pad U2-89(3467.181mil,3319.685mil) on Top
+Pad U2-88(3467.181mil,3300mil) on Top
+Pad U2-87(3467.181mil,3280.315mil) on Top
+Pad U2-86(3467.181mil,3260.63mil) on Top
+Pad U2-85(3467.181mil,3240.945mil) on Top
+Pad U2-84(3467.181mil,3221.26mil) on Top
+Pad U2-83(3467.181mil,3201.575mil) on Top
+Pad U2-82(3467.181mil,3181.89mil) on Top
+Pad U2-81(3467.181mil,3162.205mil) on Top
+Pad U2-80(3467.181mil,3142.52mil) on Top
+Pad U2-79(3467.181mil,3122.835mil) on Top
+Pad U2-78(3467.181mil,3103.15mil) on Top
+Pad U2-77(3467.181mil,3083.465mil) on Top
+Pad U2-76(3467.181mil,3063.78mil) on Top
+Pad U2-75(3402.22mil,2998.819mil) on Top
+Pad U2-74(3382.535mil,2998.819mil) on Top
+Pad U2-73(3362.85mil,2998.819mil) on Top
+Pad U2-72(3343.165mil,2998.819mil) on Top
+Pad U2-71(3323.48mil,2998.819mil) on Top
+Pad U2-70(3303.795mil,2998.819mil) on Top
+Pad U2-69(3284.11mil,2998.819mil) on Top
+Pad U2-68(3264.425mil,2998.819mil) on Top
+Pad U2-67(3244.74mil,2998.819mil) on Top
+Pad U2-66(3225.055mil,2998.819mil) on Top
+Pad U2-65(3205.37mil,2998.819mil) on Top
+Pad U2-64(3185.685mil,2998.819mil) on Top
+Pad U2-63(3166mil,2998.819mil) on Top
+Pad U2-62(3146.315mil,2998.819mil) on Top
+Pad U2-61(3126.63mil,2998.819mil) on Top
+Pad U2-60(3106.945mil,2998.819mil) on Top
+Pad U2-59(3087.26mil,2998.819mil) on Top
+Pad U2-58(3067.575mil,2998.819mil) on Top
+Pad U2-57(3047.89mil,2998.819mil) on Top
+Pad U2-56(3028.205mil,2998.819mil) on Top
+Pad U2-55(3008.52mil,2998.819mil) on Top
+Pad U2-54(2988.835mil,2998.819mil) on Top
+Pad U2-53(2969.15mil,2998.819mil) on Top
+Pad U2-52(2949.465mil,2998.819mil) on Top
+Pad U2-51(2929.78mil,2998.819mil) on Top
+Pad U2-50(2864.819mil,3063.78mil) on Top
+Pad U2-49(2864.819mil,3083.465mil) on Top
+Pad U2-48(2864.819mil,3103.15mil) on Top
+Pad U2-47(2864.819mil,3122.835mil) on Top
+Pad U2-46(2864.819mil,3142.52mil) on Top
+Pad U2-45(2864.819mil,3162.205mil) on Top
+Pad U2-44(2864.819mil,3181.89mil) on Top
+Pad U2-43(2864.819mil,3201.575mil) on Top
+Pad U2-42(2864.819mil,3221.26mil) on Top
+Pad U2-41(2864.819mil,3240.945mil) on Top
+Pad U2-40(2864.819mil,3260.63mil) on Top
+Pad U2-39(2864.819mil,3280.315mil) on Top
+Pad U2-38(2864.819mil,3300mil) on Top
+Pad U2-37(2864.819mil,3319.685mil) on Top
+Pad U2-36(2864.819mil,3339.37mil) on Top
+Pad U2-35(2864.819mil,3359.055mil) on Top
+Pad U2-34(2864.819mil,3378.74mil) on Top
+Pad U2-33(2864.819mil,3398.425mil) on Top
+Pad U2-32(2864.819mil,3418.11mil) on Top
+Pad U2-31(2864.819mil,3437.795mil) on Top
+Pad U2-30(2864.819mil,3457.48mil) on Top
+Pad U2-29(2864.819mil,3477.165mil) on Top
+Pad U2-28(2864.819mil,3496.85mil) on Top
+Pad U2-27(2864.819mil,3516.535mil) on Top
+Pad U2-26(2864.819mil,3536.22mil) on Top
+Pad U2-25(2929.78mil,3601.181mil) on Top
+Pad U2-24(2949.465mil,3601.181mil) on Top
+Pad U2-23(2969.15mil,3601.181mil) on Top
+Pad U2-22(2988.835mil,3601.181mil) on Top
+Pad U2-21(3008.52mil,3601.181mil) on Top
+Pad U2-20(3028.205mil,3601.181mil) on Top
+Pad U2-19(3047.89mil,3601.181mil) on Top
+Pad U2-18(3067.575mil,3601.181mil) on Top
+Pad U2-17(3087.26mil,3601.181mil) on Top
+Pad U2-16(3106.945mil,3601.181mil) on Top
+Pad U2-15(3126.63mil,3601.181mil) on Top
+Pad U2-14(3146.315mil,3601.181mil) on Top
+Pad U2-13(3166mil,3601.181mil) on Top
+Pad U2-12(3185.685mil,3601.181mil) on Top
+Pad U2-11(3205.37mil,3601.181mil) on Top
+Pad U2-10(3225.055mil,3601.181mil) on Top
+Pad U2-9(3244.74mil,3601.181mil) on Top
+Pad U2-8(3264.425mil,3601.181mil) on Top
+Pad U2-7(3284.11mil,3601.181mil) on Top
+Pad U2-6(3303.795mil,3601.181mil) on Top
+Pad U2-5(3323.48mil,3601.181mil) on Top
+Pad U2-4(3343.165mil,3601.181mil) on Top
+Pad U2-3(3362.85mil,3601.181mil) on Top
+Pad U2-2(3382.535mil,3601.181mil) on Top
+Pad U2-1(3402.22mil,3601.181mil) on Top
+Pad FB21-1(3245mil,3697.1mil) on Top
+Pad FB21-2(3245mil,3734.9mil) on Top
+Pad FB9-1(3360mil,2770.1mil) on Top
+Pad FB9-2(3360mil,2807.9mil) on Top
+Pad FB8-1(2752mil,3537.1mil) on Top
+Pad FB8-2(2752mil,3574.9mil) on Top
+Pad FB11-1(3138.1mil,3737mil) on Top
+Pad FB11-2(3175.9mil,3737mil) on Top
+Pad FB10-1(2790mil,3518.1mil) on Top
+Pad FB10-2(2790mil,3555.9mil) on Top
+Pad FB12-1(3653mil,3509.1mil) on Top
+Pad FB12-2(3653mil,3546.9mil) on Top
+Pad FB14-1(3360mil,2677.1mil) on Top
+Pad FB14-2(3360mil,2714.9mil) on Top
+Pad FB13-1(3529.1mil,3094mil) on Top
+Pad FB13-2(3566.9mil,3094mil) on Top
+Pad FB15-1(3813mil,3546.9mil) on Top
+Pad FB15-2(3813mil,3509.1mil) on Top
+Pad FB16-1(3529.1mil,3010mil) on Top
+Pad FB16-2(3566.9mil,3010mil) on Top
+Pad FB18-1(3297mil,3696.1mil) on Top
+Pad FB18-2(3297mil,3733.9mil) on Top
+Pad FB20-1(3612mil,3718.1mil) on Top
+Pad FB20-2(3612mil,3755.9mil) on Top
+Pad R44-1(2728.23mil,3068.33mil) on Top
+Pad R44-2(2781.77mil,3068.33mil) on Top
+Pad R31-1(3882mil,2816.9mil) on Top
+Pad R31-2(3882mil,2779.1mil) on Top
+Pad R28-1(3882mil,2858.1mil) on Top
+Pad R28-2(3882mil,2895.9mil) on Top
+Pad R27-1(3784mil,2888.1mil) on Top
+Pad R27-2(3784mil,2925.9mil) on Top
+Pad R37-1(4297mil,2638.1mil) on Top
+Pad R37-2(4297mil,2675.9mil) on Top
+Pad R36-1(4296mil,2581.9mil) on Top
+Pad R36-2(4296mil,2544.1mil) on Top
+Pad R32-1(4191mil,2692.9mil) on Top
+Pad R32-2(4191mil,2655.1mil) on Top
+Pad C56-1(4191mil,2611.7mil) on Top
+Pad C56-2(4191mil,2574.3mil) on Top
+Pad R73-1(4296mil,2870.1mil) on Top
+Pad R73-2(4296mil,2907.9mil) on Top
+Pad R39-1(4296mil,2826.9mil) on Top
+Pad R39-2(4296mil,2789.1mil) on Top
+Pad R38-1(4191mil,2901.9mil) on Top
+Pad R38-2(4191mil,2864.1mil) on Top
+Pad C59-1(4191mil,2815.7mil) on Top
+Pad C59-2(4191mil,2778.3mil) on Top
+Pad R79-1(4296mil,2426.1mil) on Top
+Pad R79-2(4296mil,2463.9mil) on Top
+Pad R78-1(4296mil,2381.9mil) on Top
+Pad R78-2(4296mil,2344.1mil) on Top
+Pad R77-1(4191mil,2474.9mil) on Top
+Pad R77-2(4191mil,2437.1mil) on Top
+Pad C64-1(4191mil,2395.7mil) on Top
+Pad C64-2(4191mil,2358.3mil) on Top
+Pad FB7-1(3590mil,2747.9mil) on Top
+Pad FB7-2(3590mil,2710.1mil) on Top
+Pad RV7-1(3576.7mil,2297mil) on Top
+Pad RV7-2(3539.3mil,2297mil) on Top
+Pad C79-1(3632mil,2747.7mil) on Top
+Pad C79-2(3632mil,2710.3mil) on Top
+Pad C78-1(4597mil,2905.3mil) on Top
+Pad C78-2(4597mil,2942.7mil) on Top
+Pad R64-1(2904.9mil,3667mil) on Top
+Pad R64-2(2867.1mil,3667mil) on Top
+Pad R74-1(2984mil,3682.1mil) on Top
+Pad R74-2(2984mil,3719.9mil) on Top
+Pad R75-1(3024mil,3682.1mil) on Top
+Pad R75-2(3024mil,3719.9mil) on Top
+Pad R76-1(3772mil,3755.9mil) on Top
+Pad R76-2(3772mil,3718.1mil) on Top
+Pad D18-A(4243mil,2320.535mil) on Top
+Pad D18-K(4243mil,2387.465mil) on Top
+Pad D17-A(4243mil,2426.25mil) on Top
+Pad D17-K(4243mil,2493.179mil) on Top
+Pad D16-A(4243mil,2760.964mil) on Top
+Pad D16-K(4243mil,2827.893mil) on Top
+Pad D15-A(4243mil,2866.678mil) on Top
+Pad D15-K(4243mil,2933.607mil) on Top
+Pad D14-A(4243mil,2535.392mil) on Top
+Pad D14-K(4243mil,2602.321mil) on Top
+Pad D13-A(4244mil,2643.535mil) on Top
+Pad D13-K(4244mil,2710.465mil) on Top
+Pad D12-A(3832mil,2756.821mil) on Top
+Pad D12-K(3832mil,2823.75mil) on Top
+Pad D11-A(3832mil,2862.535mil) on Top
+Pad D11-K(3832mil,2929.464mil) on Top
+Pad FB6-1(1956.9mil,2301mil) on Top
+Pad FB6-2(1919.1mil,2301mil) on Top
+Pad FB5-1(2590mil,3048.9mil) on Top
+Pad FB5-2(2590mil,3011.1mil) on Top
+Pad FB4-1(1499.9mil,2301mil) on Top
+Pad FB4-2(1462.1mil,2301mil) on Top
+Pad FB3-1(2494.9mil,2810mil) on Top
+Pad FB3-2(2457.1mil,2810mil) on Top
+Pad FB2-1(1202mil,2296.9mil) on Top
+Pad FB2-2(1202mil,2259.1mil) on Top
+Pad FB1-1(1187mil,2842.1mil) on Top
+Pad FB1-2(1187mil,2879.9mil) on Top
+Pad R6-1(1293mil,2296.9mil) on Top
+Pad R6-2(1293mil,2259.1mil) on Top
+Pad R5-1(1228mil,2879.9mil) on Top
+Pad R5-2(1228mil,2842.1mil) on Top
+Pad C50-1(1247mil,2259.3mil) on Top
+Pad C50-2(1247mil,2296.7mil) on Top
+Pad RV2-1(1157mil,2259.3mil) on Top
+Pad RV2-2(1157mil,2296.7mil) on Top
+Pad C22-1(1270mil,2842.3mil) on Top
+Pad C22-2(1270mil,2879.7mil) on Top
+Pad RV1-1(1146mil,2879.7mil) on Top
+Pad RV1-2(1146mil,2842.3mil) on Top
+Pad R9-1(2470.1mil,2851mil) on Top
+Pad R9-2(2507.9mil,2851mil) on Top
+Pad R16-1(1695.9mil,2301mil) on Top
+Pad R16-2(1658.1mil,2301mil) on Top
+Pad C61-1(2549mil,2887.7mil) on Top
+Pad C61-2(2549mil,2850.3mil) on Top
+Pad RV3-1(2415mil,2841.7mil) on Top
+Pad RV3-2(2415mil,2804.3mil) on Top
+Pad C67-1(1615.7mil,2301mil) on Top
+Pad C67-2(1578.3mil,2301mil) on Top
+Pad RV4-1(1382.3mil,2301mil) on Top
+Pad RV4-2(1419.7mil,2301mil) on Top
+Pad R25-1(2141.9mil,2299mil) on Top
+Pad R25-2(2104.1mil,2299mil) on Top
+Pad R21-1(2511.1mil,3052mil) on Top
+Pad R21-2(2548.9mil,3052mil) on Top
+Pad C69-1(2063.7mil,2299mil) on Top
+Pad C69-2(2026.3mil,2299mil) on Top
+Pad RV6-1(1839.3mil,2301mil) on Top
+Pad RV6-2(1876.7mil,2301mil) on Top
+Pad C68-1(2548.7mil,3011mil) on Top
+Pad C68-2(2511.3mil,3011mil) on Top
+Pad RV5-1(2511.3mil,2970mil) on Top
+Pad RV5-2(2548.7mil,2970mil) on Top
+Pad JP2-2(2325mil,3172.5mil) on Top
+Pad JP2-1(2325mil,3232.5mil) on Top
+Pad U4-P12(2892.42mil,2309.25mil) on Top
+Pad U4-P11(2892.42mil,2334.84mil) on Top
+Pad U4-P10(2892.42mil,2360.43mil) on Top
+Pad U4-P09(2892.42mil,2386.02mil) on Top
+Pad U4-P08(2892.42mil,2411.61mil) on Top
+Pad U4-P07(2892.42mil,2437.2mil) on Top
+Pad U4-P06(2892.42mil,2462.8mil) on Top
+Pad U4-P05(2892.42mil,2488.39mil) on Top
+Pad U4-P04(2892.42mil,2513.98mil) on Top
+Pad U4-P03(2892.42mil,2539.57mil) on Top
+Pad U4-P02(2892.42mil,2565.16mil) on Top
+Pad U4-P01(2892.42mil,2590.75mil) on Top
+Pad U4-P13(3132.58mil,2309.25mil) on Top
+Pad U4-P14(3132.58mil,2334.84mil) on Top
+Pad U4-P15(3132.58mil,2360.43mil) on Top
+Pad U4-P16(3132.58mil,2386.02mil) on Top
+Pad U4-P17(3132.58mil,2411.61mil) on Top
+Pad U4-P18(3132.58mil,2437.2mil) on Top
+Pad U4-P19(3132.58mil,2462.8mil) on Top
+Pad U4-P20(3132.58mil,2488.39mil) on Top
+Pad U4-P21(3132.58mil,2513.98mil) on Top
+Pad U4-P22(3132.58mil,2539.57mil) on Top
+Pad U4-P23(3132.58mil,2565.16mil) on Top
+Pad U4-P24(3132.58mil,2590.75mil) on Top
+Pad FID2-1(1137.5mil,1350mil) on Top
+Pad FID1-1(1137.5mil,4430mil) on Top
+Pad FID3-1(4907.5mil,1350mil) on Top
+Pad H3-1(1244.488mil,4860.63mil) on Top
+Pad H3-1(1244.488mil,4939.37mil) on Top
+Pad H3-1(1189.37mil,4994.488mil) on Top
+Pad H3-1(1110.63mil,4994.488mil) on Top
+Pad H3-1(1055.512mil,4939.37mil) on Top
+Pad H3-1(1055.512mil,4860.63mil) on Top
+Pad H3-1(1110.63mil,4805.512mil) on Top
+Pad H3-1(1189.37mil,4805.512mil) on Top
+Pad H4-1(5044.488mil,4860.63mil) on Top
+Pad H4-1(5044.488mil,4939.37mil) on Top
+Pad H4-1(4989.37mil,4994.488mil) on Top
+Pad H4-1(4910.63mil,4994.488mil) on Top
+Pad H4-1(4855.512mil,4939.37mil) on Top
+Pad H4-1(4855.512mil,4860.63mil) on Top
+Pad H4-1(4910.63mil,4805.512mil) on Top
+Pad H4-1(4989.37mil,4805.512mil) on Top
+Pad H2-1(5044.488mil,1110.63mil) on Top
+Pad H2-1(5044.488mil,1189.37mil) on Top
+Pad H2-1(4989.37mil,1244.488mil) on Top
+Pad H2-1(4910.63mil,1244.488mil) on Top
+Pad H2-1(4855.512mil,1189.37mil) on Top
+Pad H2-1(4855.512mil,1110.63mil) on Top
+Pad H2-1(4910.63mil,1055.512mil) on Top
+Pad H2-1(4989.37mil,1055.512mil) on Top
+Pad LED7-C(1070.47mil,3787.5mil) on Top
+Pad LED7-A(1153.15mil,3787.5mil) on Top
+Pad C1-1(2547.5mil,3594.27mil) on Top
+Pad C1-2(2547.5mil,3540.73mil) on Top
+Pad C11-1(1604.27mil,3140mil) on Top
+Pad C11-2(1550.73mil,3140mil) on Top
+Pad LED10-C(2051.16mil,3187.5mil) on Top
+Pad LED10-A(2133.84mil,3187.5mil) on Top
+Pad LED9-C(2051.16mil,3260mil) on Top
+Pad LED9-A(2133.84mil,3260mil) on Top
+Pad C15-1(1604.27mil,3072.5mil) on Top
+Pad C15-2(1550.73mil,3072.5mil) on Top
+Pad LED1-C(1072.97mil,3897.34mil) on Top
+Pad LED1-A(1155.65mil,3897.34mil) on Top
+Pad C10-1(2509.27mil,3445mil) on Top
+Pad C10-2(2455.73mil,3445mil) on Top
+Pad C16-1(1676.77mil,3442.5mil) on Top
+Pad C16-2(1623.23mil,3442.5mil) on Top
+Pad Z1-1(1545mil,3243.23mil) on Top
+Pad Z1-2(1545mil,3296.77mil) on Top
+Pad Z2-1(1545mil,3416.77mil) on Top
+Pad Z2-2(1545mil,3363.23mil) on Top
+Pad C13-1(1700mil,3086.77mil) on Top
+Pad C13-2(1700mil,3033.23mil) on Top
+Pad C12-1(1831.77mil,2952.5mil) on Top
+Pad C12-2(1778.23mil,2952.5mil) on Top
+Pad C14-1(1905mil,3086.77mil) on Top
+Pad C14-2(1905mil,3033.23mil) on Top
+Pad Y2-1(1768.58mil,3112.78mil) on Top
+Pad Y2-2(1768.58mil,3022.22mil) on Top
+Pad Y2-3(1841.42mil,3022.22mil) on Top
+Pad Y2-4(1841.42mil,3112.78mil) on Top
+Pad D4-C(1889.43mil,3531.25mil) on Top
+Pad D4-A(1755.57mil,3531.25mil) on Top
+Pad R4-2(1760.75mil,1412.52mil) on Top
+Pad R4-1(1760.75mil,1524.48mil) on Top
+Pad R7-2(1443.75mil,1412.52mil) on Top
+Pad R7-1(1443.75mil,1524.48mil) on Top
+Pad C27-1(1742.5mil,2151.77mil) on Top
+Pad C27-2(1742.5mil,2098.23mil) on Top
+Pad C28-1(1816.25mil,2098.23mil) on Top
+Pad C28-2(1816.25mil,2151.77mil) on Top
+Pad C29-1(1801.98mil,1775mil) on Top
+Pad C29-2(1855.52mil,1775mil) on Top
+Pad C31-1(1670mil,2151.77mil) on Top
+Pad C31-2(1670mil,2098.23mil) on Top
+Pad R18-1(1562.5mil,2151.77mil) on Top
+Pad R18-2(1562.5mil,2098.23mil) on Top
+Pad R8-2(2433.75mil,1412.52mil) on Top
+Pad R8-1(2433.75mil,1524.48mil) on Top
+Pad R10-2(2112.25mil,1412.52mil) on Top
+Pad R10-1(2112.25mil,1524.48mil) on Top
+Pad C32-1(2453mil,2151.77mil) on Top
+Pad C32-2(2453mil,2098.23mil) on Top
+Pad C33-1(2532mil,2102.23mil) on Top
+Pad C33-2(2532mil,2155.77mil) on Top
+Pad C34-1(2551.98mil,1775mil) on Top
+Pad C34-2(2605.52mil,1775mil) on Top
+Pad C36-1(2370mil,2151.77mil) on Top
+Pad C36-2(2370mil,2098.23mil) on Top
+Pad R12-1(2259mil,2151.77mil) on Top
+Pad R12-2(2259mil,2098.23mil) on Top
+Pad R14-2(3216.25mil,1412.52mil) on Top
+Pad R14-1(3216.25mil,1524.48mil) on Top
+Pad R15-2(2879.25mil,1412.52mil) on Top
+Pad R15-1(2879.25mil,1524.48mil) on Top
+Pad C37-1(3181.25mil,2098.23mil) on Top
+Pad C37-2(3181.25mil,2151.77mil) on Top
+Pad C38-1(3247.5mil,2098.23mil) on Top
+Pad C38-2(3247.5mil,2151.77mil) on Top
+Pad C39-1(3294.48mil,1775mil) on Top
+Pad C39-2(3348.02mil,1775mil) on Top
+Pad C41-1(3105mil,2151.77mil) on Top
+Pad C41-2(3105mil,2098.23mil) on Top
+Pad R17-1(3006.25mil,2151.77mil) on Top
+Pad R17-2(3006.25mil,2098.23mil) on Top
+Pad R19-2(3917.75mil,1412.52mil) on Top
+Pad R19-1(3917.75mil,1524.48mil) on Top
+Pad R20-2(3582.25mil,1412.52mil) on Top
+Pad R20-1(3582.25mil,1524.48mil) on Top
+Pad C42-1(3889mil,2151.77mil) on Top
+Pad C42-2(3889mil,2098.23mil) on Top
+Pad C43-1(3962.25mil,2098.23mil) on Top
+Pad C43-2(3962.25mil,2151.77mil) on Top
+Pad C44-1(3989.48mil,1775mil) on Top
+Pad C44-2(4043.02mil,1775mil) on Top
+Pad C46-1(3817.13mil,2151.77mil) on Top
+Pad C46-2(3817.13mil,2098.23mil) on Top
+Pad R22-1(3702.5mil,2151.77mil) on Top
+Pad R22-2(3702.5mil,2098.23mil) on Top
+Pad R23-2(4609.75mil,1412.52mil) on Top
+Pad R23-1(4609.75mil,1524.48mil) on Top
+Pad C47-1(4638.77mil,2082.5mil) on Top
+Pad C47-2(4585.23mil,2082.5mil) on Top
+Pad C48-1(4828.75mil,1923.23mil) on Top
+Pad C48-2(4828.75mil,1976.77mil) on Top
+Pad C49-1(4736mil,1783.07mil) on Top
+Pad C49-2(4736mil,1836.61mil) on Top
+Pad C51-1(4515mil,2151.77mil) on Top
+Pad C51-2(4515mil,2098.23mil) on Top
+Pad R26-1(4402.5mil,2151.77mil) on Top
+Pad R26-2(4402.5mil,2098.23mil) on Top
+Pad Q1-1(1475mil,3995.67mil) on Top
+Pad Q1-2(1525mil,3995.67mil) on Top
+Pad Q1-3(1575mil,3995.67mil) on Top
+Pad Q1-4(1625mil,3995.67mil) on Top
+Pad Q1-MB(1550mil,4139.37mil) on Top
+Pad Q2-1(1850mil,3995.67mil) on Top
+Pad Q2-2(1900mil,3995.67mil) on Top
+Pad Q2-3(1950mil,3995.67mil) on Top
+Pad Q2-4(2000mil,3995.67mil) on Top
+Pad Q2-MB(1925mil,4139.37mil) on Top
+Pad Q3-1(2250mil,3995.67mil) on Top
+Pad Q3-2(2300mil,3995.67mil) on Top
+Pad Q3-3(2350mil,3995.67mil) on Top
+Pad Q3-4(2400mil,3995.67mil) on Top
+Pad Q3-MB(2325mil,4139.37mil) on Top
+Pad F3-P$1(4493.39mil,3850mil) on Top
+Pad F3-P$2(4242.61mil,3850mil) on Top
+Pad R30-1(2817mil,2386.77mil) on Top
+Pad R30-2(2817mil,2333.23mil) on Top
+Pad C55-1(2817.5mil,2460.35mil) on Top
+Pad C55-2(2817.5mil,2513.89mil) on Top
+Pad C57-1(2586.98mil,3212.5mil) on Top
+Pad C57-2(2640.52mil,3212.5mil) on Top
+Pad C58-1(2658.02mil,3415mil) on Top
+Pad C58-2(2604.48mil,3415mil) on Top
+Pad R33-1(1225mil,3840.73mil) on Top
+Pad R33-2(1225mil,3894.27mil) on Top
+Pad R35-1(1223.05mil,3713.17mil) on Top
+Pad R35-2(1223.05mil,3766.71mil) on Top
+Pad LED2-C(1462.5mil,3874.21mil) on Top
+Pad LED2-A(1462.5mil,3791.53mil) on Top
+Pad R40-1(1384.27mil,3778.75mil) on Top
+Pad R40-2(1330.73mil,3778.75mil) on Top
+Pad R41-1(2449mil,3770.23mil) on Top
+Pad R41-2(2449mil,3823.77mil) on Top
+Pad R42-1(1656.77mil,3920mil) on Top
+Pad R42-2(1603.23mil,3920mil) on Top
+Pad R43-1(1365.73mil,3712.5mil) on Top
+Pad R43-2(1419.27mil,3712.5mil) on Top
+Pad R45-1(2728.23mil,2991mil) on Top
+Pad R45-2(2781.77mil,2991mil) on Top
+Pad R46-1(2674.77mil,3561mil) on Top
+Pad R46-2(2621.23mil,3561mil) on Top
+Pad R47-1(1678.02mil,3518.75mil) on Top
+Pad R47-2(1624.48mil,3518.75mil) on Top
+Pad R48-1(2360mil,3773.23mil) on Top
+Pad R48-2(2360mil,3826.77mil) on Top
+Pad R49-1(2360mil,3696.77mil) on Top
+Pad R49-2(2360mil,3643.23mil) on Top
+Pad LED3-C(1846.16mil,3887.5mil) on Top
+Pad LED3-A(1928.84mil,3887.5mil) on Top
+Pad R50-1(1998.23mil,3887.5mil) on Top
+Pad R50-2(2051.77mil,3887.5mil) on Top
+Pad R51-1(2526.77mil,4012.5mil) on Top
+Pad R51-2(2473.23mil,4012.5mil) on Top
+Pad R52-1(2526.77mil,3947.5mil) on Top
+Pad R52-2(2473.23mil,3947.5mil) on Top
+Pad LED4-C(2246.16mil,3900mil) on Top
+Pad LED4-A(2328.84mil,3900mil) on Top
+Pad R53-1(2804.27mil,4375mil) on Top
+Pad R53-2(2750.73mil,4375mil) on Top
+Pad R54-1(2862.23mil,3907mil) on Top
+Pad R54-2(2915.77mil,3907mil) on Top
+Pad LED5-C(2596.16mil,4507.5mil) on Top
+Pad LED5-A(2678.84mil,4507.5mil) on Top
+Pad R55-1(2750.73mil,4440mil) on Top
+Pad R55-2(2804.27mil,4440mil) on Top
+Pad R56-1(3399.27mil,3925mil) on Top
+Pad R56-2(3345.73mil,3925mil) on Top
+Pad R57-1(3473.23mil,3925mil) on Top
+Pad R57-2(3526.77mil,3925mil) on Top
+Pad LED6-C(3032.5mil,4016.34mil) on Top
+Pad LED6-A(3032.5mil,3933.66mil) on Top
+Pad R58-1(2965mil,3935.73mil) on Top
+Pad R58-2(2965mil,3989.27mil) on Top
+Pad R59-1(2686.34mil,2152.46mil) on Top
+Pad R59-2(2686.34mil,2098.92mil) on Top
+Pad R60-1(1888.92mil,2151.77mil) on Top
+Pad R60-2(1888.92mil,2098.23mil) on Top
+Pad R61-1(3381.48mil,2151.77mil) on Top
+Pad R61-2(3381.48mil,2098.23mil) on Top
+Pad R62-1(4034.86mil,2151.77mil) on Top
+Pad R62-2(4034.86mil,2098.23mil) on Top
+Pad R63-1(4827.5mil,1821.77mil) on Top
+Pad R63-2(4827.5mil,1768.23mil) on Top
+Pad R1-1(1606.1mil,3291.25mil) on Top
+Pad R1-2(1643.9mil,3291.25mil) on Top
+Pad R2-1(1606.1mil,3353.75mil) on Top
+Pad R2-2(1643.9mil,3353.75mil) on Top
+Pad C2-1(1616.25mil,2923.85mil) on Top
+Pad C2-2(1616.25mil,2998.65mil) on Top
+Pad C4-1(4330mil,2098.23mil) on Top
+Pad C4-2(4330mil,2151.77mil) on Top
+Pad C17-1(3630mil,2098.23mil) on Top
+Pad C17-2(3630mil,2151.77mil) on Top
+Pad C18-1(2932.5mil,2098.23mil) on Top
+Pad C18-2(2932.5mil,2151.77mil) on Top
+Pad C23-1(2177mil,2098.23mil) on Top
+Pad C23-2(2177mil,2151.77mil) on Top
+Pad C24-1(1490mil,2098.23mil) on Top
+Pad C24-2(1490mil,2151.77mil) on Top
+Pad R29-1(1416.06mil,2098.23mil) on Top
+Pad R29-2(1416.06mil,2151.77mil) on Top
+Pad R65-1(2117.13mil,2098.23mil) on Top
+Pad R65-2(2117.13mil,2151.77mil) on Top
+Pad R66-1(2858.76mil,2098.23mil) on Top
+Pad R66-2(2858.76mil,2151.77mil) on Top
+Pad R67-1(3557.44mil,2098.23mil) on Top
+Pad R67-2(3557.44mil,2151.77mil) on Top
+Pad R68-1(4257.44mil,2098.23mil) on Top
+Pad R68-2(4257.44mil,2151.77mil) on Top
+Pad C54-1(3437.5mil,4601.5mil) on Top
+Pad C54-2(3437.5mil,4538.5mil) on Top
+Pad C60-1(2809mil,4507.5mil) on Top
+Pad C60-2(2746mil,4507.5mil) on Top
+Pad C62-1(3527.5mil,4601.5mil) on Top
+Pad C62-2(3527.5mil,4538.5mil) on Top
+Pad Q8-3(2614.19mil,3997.5mil) on Top
+Pad Q8-2(2696.87mil,4034.9mil) on Top
+Pad Q8-1(2696.87mil,3960.1mil) on Top
+Pad R69-1(2811.77mil,3905mil) on Top
+Pad R69-2(2758.23mil,3905mil) on Top
+Pad R70-1(2623.23mil,3902.5mil) on Top
+Pad R70-2(2676.77mil,3902.5mil) on Top
+Pad R71-1(2489.27mil,3877.5mil) on Top
+Pad R71-2(2435.73mil,3877.5mil) on Top
+Pad R34-1(2628mil,2948.77mil) on Top
+Pad R34-2(2628mil,2895.23mil) on Top
+Pad C71-1(1308mil,1765.52mil) on Top
+Pad C71-2(1308mil,1711.98mil) on Top
+Pad C72-1(2023.02mil,1775mil) on Top
+Pad C72-2(1969.48mil,1775mil) on Top
+Pad C73-1(2773.02mil,1775mil) on Top
+Pad C73-2(2719.48mil,1775mil) on Top
+Pad C74-1(3513.02mil,1775mil) on Top
+Pad C74-2(3459.48mil,1775mil) on Top
+Pad R11-1(3793.23mil,3835mil) on Top
+Pad R11-2(3846.77mil,3835mil) on Top
+Pad R13-1(3709.27mil,3860mil) on Top
+Pad R13-2(3655.73mil,3860mil) on Top
+Pad C63-1(1462.5mil,3588.8mil) on Top
+Pad C63-2(1462.5mil,3626.2mil) on Top
+Pad C5-1(2102mil,3102.7mil) on Top
+Pad C5-2(2102mil,3065.3mil) on Top
+Pad C19-1(2110mil,2931.7mil) on Top
+Pad C19-2(2110mil,2894.3mil) on Top
+Pad C20-1(2426mil,3100.7mil) on Top
+Pad C20-2(2426mil,3063.3mil) on Top
+Pad H1-1(1244.488mil,1110.63mil) on Top
+Pad H1-1(1244.488mil,1189.37mil) on Top
+Pad H1-1(1189.37mil,1244.488mil) on Top
+Pad H1-1(1110.63mil,1244.488mil) on Top
+Pad H1-1(1055.512mil,1189.37mil) on Top
+Pad H1-1(1055.512mil,1110.63mil) on Top
+Pad H1-1(1110.63mil,1055.512mil) on Top
+Pad H1-1(1189.37mil,1055.512mil) on Top
+Pad C21-1(2438mil,2899.3mil) on Top
+Pad C21-2(2438mil,2936.7mil) on Top
+Pad D40-C(1101mil,3702.31mil) on Top
+Pad D40-A(1101mil,3615.69mil) on Top
+Pad R3-1(4486.77mil,4535mil) on Top
+Pad R3-2(4433.23mil,4535mil) on Top
+Pad C40-1(4150.1mil,4045mil) on Top
+Pad C40-2(4224.9mil,4045mil) on Top
+Pad C35-1(3898.5mil,4185mil) on Top
+Pad C35-2(3961.5mil,4185mil) on Top
+Pad U3-1(3868mil,4072.5mil) on Top
+Pad U3-2(3868mil,4022.5mil) on Top
+Pad U3-3(3868mil,3972.5mil) on Top
+Pad U3-4(3868mil,3922.5mil) on Top
+Pad U3-5(4062mil,3922.5mil) on Top
+Pad U3-6(4062mil,3972.5mil) on Top
+Pad U3-7(4062mil,4022.5mil) on Top
+Pad U3-8(4062mil,4072.5mil) on Top
+Pad U3-9(3965mil,3995.5mil) on Top
+Pad L2-1(3548.46mil,3716mil) on Top
+Pad L2-2(3481.54mil,3716mil) on Top
+Pad C75-1(4205.52mil,1775mil) on Top
+Pad C75-2(4151.98mil,1775mil) on Top
+Pad R72-1(1395mil,3626.4mil) on Top
+Pad R72-2(1395mil,3588.6mil) on Top
+Pad U10-2(2167.64mil,3062.5mil) on Top
+Pad U10-13(2372.36mil,3012.5mil) on Top
+Pad U10-1(2167.64mil,3087.5mil) on Top
+Pad U10-3(2167.64mil,3037.5mil) on Top
+Pad U10-4(2167.64mil,3012.5mil) on Top
+Pad U10-14(2372.36mil,3037.5mil) on Top
+Pad U10-12(2372.36mil,2987.5mil) on Top
+Pad U10-11(2372.36mil,2962.5mil) on Top
+Pad U10-6(2167.64mil,2962.5mil) on Top
+Pad U10-9(2372.36mil,2912.5mil) on Top
+Pad U10-5(2167.64mil,2987.5mil) on Top
+Pad U10-7(2167.64mil,2937.5mil) on Top
+Pad U10-10(2372.36mil,2937.5mil) on Top
+Pad U10-8(2167.64mil,2912.5mil) on Top
+Pad U10-15(2372.36mil,3062.5mil) on Top
+Pad U10-16(2372.36mil,3087.5mil) on Top
+Pad LED8-C(2761.16mil,3982.5mil) on Top
+Pad LED8-A(2843.84mil,3982.5mil) on Top
+Pad Q4-3(2599.19mil,4405mil) on Top
+Pad Q4-2(2681.87mil,4442.4mil) on Top
+Pad Q4-1(2681.87mil,4367.6mil) on Top
+Pad F4-P$1(4665mil,4800mil) on Top
+Pad F4-P$2(4135mil,4800mil) on Top
+Pad D7-C(3850mil,4681.89mil) on Top
+Pad D7-A(3850mil,4918.11mil) on Top
+Pad Y1-1(2580.97mil,3276.08mil) on Top
+Pad Y1-2(2671.53mil,3276.08mil) on Top
+Pad Y1-3(2671.53mil,3348.92mil) on Top
+Pad Y1-4(2580.97mil,3348.92mil) on Top
+Pad F2-P$1(4950.39mil,2687.5mil) on Top
+Pad F2-P$2(4699.61mil,2687.5mil) on Top
+Pad Q5-1(3125mil,3995.67mil) on Top
+Pad Q5-2(3175mil,3995.67mil) on Top
+Pad Q5-3(3225mil,3995.67mil) on Top
+Pad Q5-4(3275mil,3995.67mil) on Top
+Pad Q5-MB(3200mil,4139.37mil) on Top
+Pad R24-2(4290.25mil,1412.52mil) on Top
+Pad R24-1(4290.25mil,1524.48mil) on Top
+Pad D5-C(2472.5mil,3525.57mil) on Top
+Pad D5-A(2472.5mil,3659.43mil) on Top
+Pad RN5-1(2254.07mil,3190.26mil) on Top
+Pad RN5-2(2254.07mil,3221.75mil) on Top
+Pad RN5-3(2254.07mil,3253.25mil) on Top
+Pad RN5-4(2254.07mil,3284.74mil) on Top
+Pad RN5-5(2200.93mil,3284.74mil) on Top
+Pad RN5-6(2200.93mil,3253.25mil) on Top
+Pad RN5-7(2200.93mil,3221.75mil) on Top
+Pad RN5-8(2200.93mil,3190.26mil) on Top
+Pad F1-1(1525.71mil,2961.25mil) on Top
+Pad F1-2(1372.17mil,2961.25mil) on Top
+Pad U1-33(1845mil,3335mil) on Top
+Pad U1-32(1750.51mil,3266.1mil) on Top
+Pad U1-31(1750.51mil,3285.79mil) on Top
+Pad U1-30(1750.51mil,3305.47mil) on Top
+Pad U1-29(1750.51mil,3325.16mil) on Top
+Pad U1-28(1750.51mil,3344.84mil) on Top
+Pad U1-27(1750.51mil,3364.53mil) on Top
+Pad U1-26(1750.51mil,3384.21mil) on Top
+Pad U1-25(1750.51mil,3403.9mil) on Top
+Pad U1-24(1776.1mil,3429.49mil) on Top
+Pad U1-23(1795.79mil,3429.49mil) on Top
+Pad U1-22(1815.47mil,3429.49mil) on Top
+Pad U1-21(1835.16mil,3429.49mil) on Top
+Pad U1-20(1854.84mil,3429.49mil) on Top
+Pad U1-19(1874.53mil,3429.49mil) on Top
+Pad U1-18(1894.21mil,3429.49mil) on Top
+Pad U1-17(1913.9mil,3429.49mil) on Top
+Pad U1-16(1939.49mil,3403.9mil) on Top
+Pad U1-15(1939.49mil,3384.21mil) on Top
+Pad U1-14(1939.49mil,3364.53mil) on Top
+Pad U1-13(1939.49mil,3344.84mil) on Top
+Pad U1-12(1939.49mil,3325.16mil) on Top
+Pad U1-11(1939.49mil,3305.47mil) on Top
+Pad U1-10(1939.49mil,3285.79mil) on Top
+Pad U1-9(1939.49mil,3266.1mil) on Top
+Pad U1-8(1913.9mil,3240.51mil) on Top
+Pad U1-7(1894.21mil,3240.51mil) on Top
+Pad U1-6(1874.53mil,3240.51mil) on Top
+Pad U1-5(1854.84mil,3240.51mil) on Top
+Pad U1-4(1835.16mil,3240.51mil) on Top
+Pad U1-3(1815.47mil,3240.51mil) on Top
+Pad U1-2(1795.79mil,3240.51mil) on Top
+Pad U1-1(1776.1mil,3240.51mil) on Top
+Pad FB17-1(3537.1mil,2930mil) on Top
+Pad FB17-2(3574.9mil,2930mil) on Top
+Pad FB26-1(3219mil,2714.9mil) on Top
+Pad FB26-2(3219mil,2677.1mil) on Top
+Pad FB25-1(3219mil,2807.9mil) on Top
+Pad FB25-2(3219mil,2770.1mil) on Top
+Pad FB24-1(2941mil,2816.9mil) on Top
+Pad FB24-2(2941mil,2779.1mil) on Top
+Pad FB23-1(3223mil,2549.9mil) on Top
+Pad FB23-2(3223mil,2512.1mil) on Top
+Pad FB22-1(3283.1mil,2292mil) on Top
+Pad FB22-2(3320.9mil,2292mil) on Top
+Pad RV12-2(3259mil,2677.3mil) on Top
+Pad RV12-1(3259mil,2714.7mil) on Top
+Pad C84-2(3179mil,2677.3mil) on Top
+Pad C84-1(3179mil,2714.7mil) on Top
+Pad RV11-2(3259mil,2770.3mil) on Top
+Pad RV11-1(3259mil,2807.7mil) on Top
+Pad C83-2(3179mil,2770.3mil) on Top
+Pad C83-1(3179mil,2807.7mil) on Top
+Pad RV10-2(2981mil,2779.3mil) on Top
+Pad RV10-1(2981mil,2816.7mil) on Top
+Pad C82-2(2901mil,2779.3mil) on Top
+Pad C82-1(2901mil,2816.7mil) on Top
+Pad RV9-2(3223mil,2470.7mil) on Top
+Pad RV9-1(3223mil,2433.3mil) on Top
+Pad C81-2(3223mil,2629.7mil) on Top
+Pad C81-1(3223mil,2592.3mil) on Top
+Pad RV8-2(3363.3mil,2292mil) on Top
+Pad RV8-1(3400.7mil,2292mil) on Top
+Pad C80-2(3209mil,2330.3mil) on Top
+Pad C80-1(3209mil,2367.7mil) on Top
+Pad FB27-2(2941mil,2714.9mil) on Top
+Pad FB27-1(2941mil,2677.1mil) on Top
+Pad RV31-2(3401mil,2677.2mil) on Top
+Pad RV31-1(3401mil,2714.6mil) on Top
+Pad C85-2(3319mil,2677.2mil) on Top
+Pad C85-1(3319mil,2714.6mil) on Top
+Pad RV30-2(2981mil,2677.3mil) on Top
+Pad RV30-1(2981mil,2714.7mil) on Top
+Pad C77-2(2901mil,2677.3mil) on Top
+Pad C77-1(2901mil,2714.7mil) on Top
+Pad RV23-2(3772mil,3612.3mil) on Top
+Pad RV23-1(3772mil,3649.7mil) on Top
+Pad RV24-2(3852mil,3612.3mil) on Top
+Pad RV24-1(3852mil,3649.7mil) on Top
+Pad RV25-2(3692mil,3755.7mil) on Top
+Pad RV25-1(3692mil,3718.3mil) on Top
+Pad RV26-2(3732mil,3755.7mil) on Top
+Pad RV26-1(3732mil,3718.3mil) on Top
+Pad RV19-2(3613mil,3509.3mil) on Top
+Pad RV19-1(3613mil,3546.7mil) on Top
+Pad RV20-2(3574.7mil,2889mil) on Top
+Pad RV20-1(3537.3mil,2889mil) on Top
+Pad RV22-2(3852mil,3509.3mil) on Top
+Pad RV22-1(3852mil,3546.7mil) on Top
+Pad FB32-2(3812mil,3612.1mil) on Top
+Pad FB32-1(3812mil,3649.9mil) on Top
+Pad FB31-2(3812mil,3718.1mil) on Top
+Pad FB31-1(3812mil,3755.9mil) on Top
+Pad FB30-2(3573mil,3509.1mil) on Top
+Pad FB30-1(3573mil,3546.9mil) on Top
+Pad FB29-2(3732mil,3612.1mil) on Top
+Pad FB29-1(3732mil,3649.9mil) on Top
+Pad RV13-2(3612mil,3612.3mil) on Top
+Pad RV13-1(3612mil,3649.7mil) on Top
+Pad RV28-2(3692mil,3612.3mil) on Top
+Pad RV28-1(3692mil,3649.7mil) on Top
+Pad RV29-2(3693mil,3546.7mil) on Top
+Pad RV29-1(3693mil,3509.3mil) on Top
+Pad RV14-2(3566.7mil,3056mil) on Top
+Pad RV14-1(3529.3mil,3056mil) on Top
+Pad RV15-2(3652mil,3755.7mil) on Top
+Pad RV15-1(3652mil,3718.3mil) on Top
+Pad RV16-2(3652mil,3649.7mil) on Top
+Pad RV16-1(3652mil,3612.3mil) on Top
+Pad RV17-2(3773mil,3509.3mil) on Top
+Pad RV17-1(3773mil,3546.7mil) on Top
+Pad RV18-2(3529.3mil,2970mil) on Top
+Pad RV18-1(3566.7mil,2970mil) on Top
+Pad FB28-2(3733mil,3546.9mil) on Top
+Pad FB28-1(3733mil,3509.1mil) on Top
+Pad RV27-2(3400mil,2770.3mil) on Top
+Pad RV27-1(3400mil,2807.7mil) on Top
+Pad C70-2(3320mil,2770.3mil) on Top
+Pad C70-1(3320mil,2807.7mil) on Top
+Pad C90-2(1937.3mil,2846mil) on Top
+Pad C90-1(1974.7mil,2846mil) on Top
+Pad C91-2(2184.3mil,2299mil) on Top
+Pad C91-1(2221.7mil,2299mil) on Top
+Pad C89-2(1736.3mil,2301mil) on Top
+Pad C89-1(1773.7mil,2301mil) on Top
+Pad C88-2(1562.3mil,2841mil) on Top
+Pad C88-1(1599.7mil,2841mil) on Top
+Pad C86-2(1105mil,2842.3mil) on Top
+Pad C86-1(1105mil,2879.7mil) on Top
+Pad C87-2(1338mil,2296.7mil) on Top
+Pad C87-1(1338mil,2259.3mil) on Top
+Pad C94-2(2264.3mil,2804mil) on Top
+Pad C94-1(2301.7mil,2804mil) on Top
+Pad C93-2(1267.7mil,4466mil) on Top
+Pad C93-1(1230.3mil,4466mil) on Top
+Pad C95-2(2901.7mil,3832mil) on Top
+Pad C95-1(2864.3mil,3832mil) on Top
+Pad C7-2(3140mil,2893.6mil) on Top
+Pad C7-1(3140mil,2931mil) on Top
+Pad C8-2(3553mil,3171.7mil) on Top
+Pad C8-1(3553mil,3134.3mil) on Top
+Pad C9-2(2754.3mil,3443mil) on Top
+Pad C9-1(2791.7mil,3443mil) on Top
+Pad C52-2(3167.3mil,3697mil) on Top
+Pad C52-1(3204.7mil,3697mil) on Top
+Pad C6-2(3491.3mil,3618mil) on Top
+Pad C6-1(3528.7mil,3618mil) on Top
+Pad C26-2(3498.7mil,3658mil) on Top
+Pad C26-1(3461.3mil,3658mil) on Top
+Pad C97-2(2277.3mil,2299mil) on Top
+Pad C97-1(2314.7mil,2299mil) on Top
+Pad C53-2(3766.2mil,3957.5mil) on Top
+Pad C53-1(3728.8mil,3957.5mil) on Top
+Pad C25-2(3772.165mil,4080mil) on Top
+Pad C25-1(3667.835mil,4080mil) on Top
+Pad C30-2(3772.165mil,4190mil) on Top
+Pad C30-1(3667.835mil,4190mil) on Top
+Pad C45-2(4250mil,4347.835mil) on Top
+Pad C45-1(4250mil,4452.165mil) on Top
+Pad L3-2(3794.764mil,4427.5mil) on Top
+Pad L3-1(4015.236mil,4427.5mil) on Top
+Pad U9-33(4450mil,1800mil) on Top
+Pad U9-32(4518.898mil,1705.315mil) on Top
+Pad U9-31(4499.213mil,1705.315mil) on Top
+Pad U9-30(4479.528mil,1705.315mil) on Top
+Pad U9-29(4459.842mil,1705.315mil) on Top
+Pad U9-28(4440.157mil,1705.315mil) on Top
+Pad U9-27(4420.472mil,1705.315mil) on Top
+Pad U9-26(4400.787mil,1705.315mil) on Top
+Pad U9-25(4381.102mil,1705.315mil) on Top
+Pad U9-24(4355.315mil,1731.102mil) on Top
+Pad U9-23(4355.315mil,1750.787mil) on Top
+Pad U9-22(4355.315mil,1770.473mil) on Top
+Pad U9-21(4355.315mil,1790.158mil) on Top
+Pad U9-20(4355.315mil,1809.843mil) on Top
+Pad U9-19(4355.315mil,1829.528mil) on Top
+Pad U9-18(4355.315mil,1849.213mil) on Top
+Pad U9-17(4355.315mil,1868.898mil) on Top
+Pad U9-16(4381.102mil,1894.685mil) on Top
+Pad U9-15(4400.787mil,1894.685mil) on Top
+Pad U9-14(4420.472mil,1894.685mil) on Top
+Pad U9-13(4440.157mil,1894.685mil) on Top
+Pad U9-12(4459.842mil,1894.685mil) on Top
+Pad U9-11(4479.528mil,1894.685mil) on Top
+Pad U9-10(4499.213mil,1894.685mil) on Top
+Pad U9-9(4518.898mil,1894.685mil) on Top
+Pad U9-8(4544.685mil,1868.898mil) on Top
+Pad U9-7(4544.685mil,1849.213mil) on Top
+Pad U9-6(4544.685mil,1829.528mil) on Top
+Pad U9-5(4544.685mil,1809.843mil) on Top
+Pad U9-4(4544.685mil,1790.158mil) on Top
+Pad U9-3(4544.685mil,1770.473mil) on Top
+Pad U9-2(4544.685mil,1750.787mil) on Top
+Pad U9-1(4544.685mil,1731.102mil) on Top
+Pad U8-1(3844.685mil,1731.102mil) on Top
+Pad U8-2(3844.685mil,1750.787mil) on Top
+Pad U8-3(3844.685mil,1770.473mil) on Top
+Pad U8-4(3844.685mil,1790.158mil) on Top
+Pad U8-5(3844.685mil,1809.843mil) on Top
+Pad U8-6(3844.685mil,1829.528mil) on Top
+Pad U8-7(3844.685mil,1849.213mil) on Top
+Pad U8-8(3844.685mil,1868.898mil) on Top
+Pad U8-9(3818.898mil,1894.685mil) on Top
+Pad U8-10(3799.213mil,1894.685mil) on Top
+Pad U8-11(3779.528mil,1894.685mil) on Top
+Pad U8-12(3759.843mil,1894.685mil) on Top
+Pad U8-13(3740.157mil,1894.685mil) on Top
+Pad U8-14(3720.472mil,1894.685mil) on Top
+Pad U8-15(3700.787mil,1894.685mil) on Top
+Pad U8-16(3681.102mil,1894.685mil) on Top
+Pad U8-17(3655.315mil,1868.898mil) on Top
+Pad U8-18(3655.315mil,1849.213mil) on Top
+Pad U8-19(3655.315mil,1829.528mil) on Top
+Pad U8-20(3655.315mil,1809.843mil) on Top
+Pad U8-21(3655.315mil,1790.158mil) on Top
+Pad U8-22(3655.315mil,1770.473mil) on Top
+Pad U8-23(3655.315mil,1750.787mil) on Top
+Pad U8-24(3655.315mil,1731.102mil) on Top
+Pad U8-25(3681.102mil,1705.315mil) on Top
+Pad U8-26(3700.787mil,1705.315mil) on Top
+Pad U8-27(3720.472mil,1705.315mil) on Top
+Pad U8-28(3740.157mil,1705.315mil) on Top
+Pad U8-29(3759.843mil,1705.315mil) on Top
+Pad U8-30(3779.528mil,1705.315mil) on Top
+Pad U8-31(3799.213mil,1705.315mil) on Top
+Pad U8-32(3818.898mil,1705.315mil) on Top
+Pad U8-33(3750mil,1800mil) on Top
+Pad U7-33(3050mil,1800mil) on Top
+Pad U7-32(3118.898mil,1705.315mil) on Top
+Pad U7-31(3099.213mil,1705.315mil) on Top
+Pad U7-30(3079.528mil,1705.315mil) on Top
+Pad U7-29(3059.843mil,1705.315mil) on Top
+Pad U7-28(3040.157mil,1705.315mil) on Top
+Pad U7-27(3020.472mil,1705.315mil) on Top
+Pad U7-26(3000.787mil,1705.315mil) on Top
+Pad U7-25(2981.102mil,1705.315mil) on Top
+Pad U7-24(2955.315mil,1731.102mil) on Top
+Pad U7-23(2955.315mil,1750.787mil) on Top
+Pad U7-22(2955.315mil,1770.473mil) on Top
+Pad U7-21(2955.315mil,1790.158mil) on Top
+Pad U7-20(2955.315mil,1809.843mil) on Top
+Pad U7-19(2955.315mil,1829.528mil) on Top
+Pad U7-18(2955.315mil,1849.213mil) on Top
+Pad U7-17(2955.315mil,1868.898mil) on Top
+Pad U7-16(2981.102mil,1894.685mil) on Top
+Pad U7-15(3000.787mil,1894.685mil) on Top
+Pad U7-14(3020.472mil,1894.685mil) on Top
+Pad U7-13(3040.157mil,1894.685mil) on Top
+Pad U7-12(3059.843mil,1894.685mil) on Top
+Pad U7-11(3079.528mil,1894.685mil) on Top
+Pad U7-10(3099.213mil,1894.685mil) on Top
+Pad U7-9(3118.898mil,1894.685mil) on Top
+Pad U7-8(3144.685mil,1868.898mil) on Top
+Pad U7-7(3144.685mil,1849.213mil) on Top
+Pad U7-6(3144.685mil,1829.528mil) on Top
+Pad U7-5(3144.685mil,1809.843mil) on Top
+Pad U7-4(3144.685mil,1790.158mil) on Top
+Pad U7-3(3144.685mil,1770.473mil) on Top
+Pad U7-2(3144.685mil,1750.787mil) on Top
+Pad U7-1(3144.685mil,1731.102mil) on Top
+Pad U6-1(2369.685mil,1731.102mil) on Top
+Pad U6-2(2369.685mil,1750.787mil) on Top
+Pad U6-3(2369.685mil,1770.473mil) on Top
+Pad U6-4(2369.685mil,1790.158mil) on Top
+Pad U6-5(2369.685mil,1809.843mil) on Top
+Pad U6-6(2369.685mil,1829.528mil) on Top
+Pad U6-7(2369.685mil,1849.213mil) on Top
+Pad U6-8(2369.685mil,1868.898mil) on Top
+Pad U6-9(2343.898mil,1894.685mil) on Top
+Pad U6-10(2324.213mil,1894.685mil) on Top
+Pad U6-11(2304.528mil,1894.685mil) on Top
+Pad U6-12(2284.843mil,1894.685mil) on Top
+Pad U6-13(2265.157mil,1894.685mil) on Top
+Pad U6-14(2245.472mil,1894.685mil) on Top
+Pad U6-15(2225.787mil,1894.685mil) on Top
+Pad U6-16(2206.102mil,1894.685mil) on Top
+Pad U6-17(2180.315mil,1868.898mil) on Top
+Pad U6-18(2180.315mil,1849.213mil) on Top
+Pad U6-19(2180.315mil,1829.528mil) on Top
+Pad U6-20(2180.315mil,1809.843mil) on Top
+Pad U6-21(2180.315mil,1790.158mil) on Top
+Pad U6-22(2180.315mil,1770.473mil) on Top
+Pad U6-23(2180.315mil,1750.787mil) on Top
+Pad U6-24(2180.315mil,1731.102mil) on Top
+Pad U6-25(2206.102mil,1705.315mil) on Top
+Pad U6-26(2225.787mil,1705.315mil) on Top
+Pad U6-27(2245.472mil,1705.315mil) on Top
+Pad U6-28(2265.157mil,1705.315mil) on Top
+Pad U6-29(2284.843mil,1705.315mil) on Top
+Pad U6-30(2304.528mil,1705.315mil) on Top
+Pad U6-31(2324.213mil,1705.315mil) on Top
+Pad U6-32(2343.898mil,1705.315mil) on Top
+Pad U6-33(2275mil,1800mil) on Top
+Pad U5-33(1550mil,1800mil) on Top
+Pad U5-32(1618.898mil,1705.315mil) on Top
+Pad U5-31(1599.213mil,1705.315mil) on Top
+Pad U5-30(1579.527mil,1705.315mil) on Top
+Pad U5-29(1559.842mil,1705.315mil) on Top
+Pad U5-28(1540.157mil,1705.315mil) on Top
+Pad U5-27(1520.472mil,1705.315mil) on Top
+Pad U5-26(1500.787mil,1705.315mil) on Top
+Pad U5-25(1481.102mil,1705.315mil) on Top
+Pad U5-24(1455.315mil,1731.102mil) on Top
+Pad U5-23(1455.315mil,1750.787mil) on Top
+Pad U5-22(1455.315mil,1770.473mil) on Top
+Pad U5-21(1455.315mil,1790.158mil) on Top
+Pad U5-20(1455.315mil,1809.843mil) on Top
+Pad U5-19(1455.315mil,1829.528mil) on Top
+Pad U5-18(1455.315mil,1849.213mil) on Top
+Pad U5-17(1455.315mil,1868.898mil) on Top
+Pad U5-16(1481.102mil,1894.685mil) on Top
+Pad U5-15(1500.787mil,1894.685mil) on Top
+Pad U5-14(1520.472mil,1894.685mil) on Top
+Pad U5-13(1540.157mil,1894.685mil) on Top
+Pad U5-12(1559.842mil,1894.685mil) on Top
+Pad U5-11(1579.527mil,1894.685mil) on Top
+Pad U5-10(1599.213mil,1894.685mil) on Top
+Pad U5-9(1618.898mil,1894.685mil) on Top
+Pad U5-8(1644.685mil,1868.898mil) on Top
+Pad U5-7(1644.685mil,1849.213mil) on Top
+Pad U5-6(1644.685mil,1829.528mil) on Top
+Pad U5-5(1644.685mil,1809.843mil) on Top
+Pad U5-4(1644.685mil,1790.158mil) on Top
+Pad U5-3(1644.685mil,1770.473mil) on Top
+Pad U5-2(1644.685mil,1750.787mil) on Top
+Pad U5-1(1644.685mil,1731.102mil) on Top
+Pad CF20-2@2(4214.61mil,1307mil) on Top
+Pad CF20-3(4190mil,1267.63mil) on Top
+Pad CF20-2@1(4165.39mil,1307mil) on Top
+Pad CF20-1(4190mil,1346.37mil) on Top
+Pad CF19-1(4290mil,1346.37mil) on Top
+Pad CF19-2@1(4265.39mil,1307mil) on Top
+Pad CF19-3(4290mil,1267.63mil) on Top
+Pad CF19-2@2(4314.61mil,1307mil) on Top
+Pad CF18-2@2(4636.61mil,1307mil) on Top
+Pad CF18-3(4612mil,1267.63mil) on Top
+Pad CF18-2@1(4587.39mil,1307mil) on Top
+Pad CF18-1(4612mil,1346.37mil) on Top
+Pad CF17-1(4712mil,1346.37mil) on Top
+Pad CF17-2@1(4687.39mil,1307mil) on Top
+Pad CF17-3(4712mil,1267.63mil) on Top
+Pad CF17-2@2(4736.61mil,1307mil) on Top
+Pad CF16-2@2(3508.61mil,1307mil) on Top
+Pad CF16-3(3484mil,1267.63mil) on Top
+Pad CF16-2@1(3459.39mil,1307mil) on Top
+Pad CF16-1(3484mil,1346.37mil) on Top
+Pad CF15-1(3584mil,1346.37mil) on Top
+Pad CF15-2@1(3559.39mil,1307mil) on Top
+Pad CF15-3(3584mil,1267.63mil) on Top
+Pad CF15-2@2(3608.61mil,1307mil) on Top
+Pad CF14-2@2(3939.61mil,1306mil) on Top
+Pad CF14-3(3915mil,1266.63mil) on Top
+Pad CF14-2@1(3890.39mil,1306mil) on Top
+Pad CF14-1(3915mil,1345.37mil) on Top
+Pad CF13-1(4015mil,1346.37mil) on Top
+Pad CF13-2@1(3990.39mil,1307mil) on Top
+Pad CF13-3(4015mil,1267.63mil) on Top
+Pad CF13-2@2(4039.61mil,1307mil) on Top
+Pad CF12-2@2(2808.61mil,1307mil) on Top
+Pad CF12-3(2784mil,1267.63mil) on Top
+Pad CF12-2@1(2759.39mil,1307mil) on Top
+Pad CF12-1(2784mil,1346.37mil) on Top
+Pad CF11-1(2884mil,1346.37mil) on Top
+Pad CF11-2@1(2859.39mil,1307mil) on Top
+Pad CF11-3(2884mil,1267.63mil) on Top
+Pad CF11-2@2(2908.61mil,1307mil) on Top
+Pad CF10-2@2(3238.61mil,1307mil) on Top
+Pad CF10-3(3214mil,1267.63mil) on Top
+Pad CF10-2@1(3189.39mil,1307mil) on Top
+Pad CF10-1(3214mil,1346.37mil) on Top
+Pad CF9-1(3314mil,1346.37mil) on Top
+Pad CF9-2@1(3289.39mil,1307mil) on Top
+Pad CF9-3(3314mil,1267.63mil) on Top
+Pad CF9-2@2(3338.61mil,1307mil) on Top
+Pad CF8-2@2(2034.61mil,1308mil) on Top
+Pad CF8-3(2010mil,1268.63mil) on Top
+Pad CF8-2@1(1985.39mil,1308mil) on Top
+Pad CF8-1(2010mil,1347.37mil) on Top
+Pad CF7-1(2110mil,1347.37mil) on Top
+Pad CF7-2@1(2085.39mil,1308mil) on Top
+Pad CF7-3(2110mil,1268.63mil) on Top
+Pad CF7-2@2(2134.61mil,1308mil) on Top
+Pad CF6-2@2(2459.61mil,1308mil) on Top
+Pad CF6-3(2435mil,1268.63mil) on Top
+Pad CF6-2@1(2410.39mil,1308mil) on Top
+Pad CF6-1(2435mil,1347.37mil) on Top
+Pad CF5-1(2536mil,1346.37mil) on Top
+Pad CF5-2@1(2511.39mil,1307mil) on Top
+Pad CF5-3(2536mil,1267.63mil) on Top
+Pad CF5-2@2(2560.61mil,1307mil) on Top
+Pad CF4-2@2(1365.61mil,1308mil) on Top
+Pad CF4-3(1341mil,1268.63mil) on Top
+Pad CF4-2@1(1316.39mil,1308mil) on Top
+Pad CF4-1(1341mil,1347.37mil) on Top
+Pad CF3-1(1444mil,1347.37mil) on Top
+Pad CF3-2@1(1419.39mil,1308mil) on Top
+Pad CF3-3(1444mil,1268.63mil) on Top
+Pad CF3-2@2(1468.61mil,1308mil) on Top
+Pad CF2-2@2(1790.61mil,1309mil) on Top
+Pad CF2-3(1766mil,1269.63mil) on Top
+Pad CF2-2@1(1741.39mil,1309mil) on Top
+Pad CF2-1(1766mil,1348.37mil) on Top
+Pad CF1-1(1866mil,1348.37mil) on Top
+Pad CF1-2@1(1841.39mil,1309mil) on Top
+Pad CF1-3(1866mil,1269.63mil) on Top
+Pad CF1-2@2(1890.61mil,1309mil) on Top
+Pad TP20-TP(3912mil,2799mil) on Bottom
+Pad TP21-TP(3909mil,2379mil) on Bottom
+Pad TP23-TP(4430mil,2330mil) on Bottom
+Pad TP22-TP(4534.614mil,2659.247mil) on Bottom
+Pad D39-(4244.102mil,1600.284mil) on Top Overlay
+Pad D38-(4448.102mil,1485.284mil) on Top Overlay
+Pad D37-(4566.102mil,1485.284mil) on Top Overlay
+Pad D36-(4768.102mil,1600.284mil) on Top Overlay
+Pad D35-(3867.102mil,1485.284mil) on Top Overlay
+Pad D34-(4077.102mil,1600.284mil) on Top Overlay
+Pad D33-(3533.102mil,1600.284mil) on Top Overlay
+Pad D32-(3743.102mil,1485.284mil) on Top Overlay
+Pad D31-(3376.102mil,1600.284mil) on Top Overlay
+Pad D30-(3167.102mil,1496.284mil) on Top Overlay
+Pad D29-(2828.102mil,1600.284mil) on Top Overlay
+Pad D28-(3042.102mil,1496.284mil) on Top Overlay
+Pad D27-(2388.102mil,1485.284mil) on Top Overlay
+Pad D26-(2591.102mil,1600.284mil) on Top Overlay
+Pad D25-(2269.102mil,1485.284mil) on Top Overlay
+Pad D24-(2066.102mil,1600.284mil) on Top Overlay
+Pad D23-(1716.102mil,1486.284mil) on Top Overlay
+Pad D22-(1804.898mil,1445.716mil) on Top Overlay
+Pad D21-(1400.102mil,1604.284mil) on Top Overlay
+Pad D9-(1600.102mil,1486.284mil) on Top Overlay
+Pad D8-(4132.283mil,3763.898mil) on Top Overlay
+Pad D2-(4635.717mil,2927.102mil) on Top Overlay
+
+Via teardrops failed : 0
+
+Via (3023mil,3410mil) from Top to Bottom
+Via (3257mil,3504mil) from Top to Bottom
+Via (3411mil,3434mil) from Top to Bottom
+Via (2994mil,3055mil) from Top to Bottom
+Via (3964mil,3079mil) from Top to Bottom
+Via (3781mil,2976mil) from Top to Bottom
+Via (3307.31mil,2736.975mil) from Top to Bottom
+Via (3584mil,3150mil) from Top to Bottom
+Via (3910.1mil,2751mil) from Top to Bottom
+Via (3868mil,2725mil) from Top to Bottom
+Via (3804.91mil,2783.91mil) from Top to Bottom
+Via (3659mil,2954mil) from Top to Bottom
+Via (3988mil,3030mil) from Top to Bottom
+Via (3606mil,3007mil) from Top to Bottom
+Via (3594mil,2970mil) from Top to Bottom
+Via (3633mil,2981mil) from Top to Bottom
+Via (3767mil,3306mil) from Top to Bottom
+Via (4002mil,2991mil) from Top to Bottom
+Via (3949mil,3575mil) from Top to Bottom
+Via (3520mil,3536mil) from Top to Bottom
+Via (3581.062mil,3649mil) from Top to Bottom
+Via (3698mil,3584mil) from Top to Bottom
+Via (3612mil,3686mil) from Top to Bottom
+Via (3526mil,3657mil) from Top to Bottom
+Via (3261mil,3750mil) from Top to Bottom
+Via (3277mil,3657mil) from Top to Bottom
+Via (3158mil,3771mil) from Top to Bottom
+Via (3210mil,3730mil) from Top to Bottom
+Via (3048mil,3648mil) from Top to Bottom
+Via (3652mil,3680mil) from Top to Bottom
+Via (3693mil,3477mil) from Top to Bottom
+Via (3562mil,2847mil) from Top to Bottom
+Via (3647mil,2789mil) from Top to Bottom
+Via (3551mil,2763mil) from Top to Bottom
+Via (3522mil,2737mil) from Top to Bottom
+Via (3578mil,2657mil) from Top to Bottom
+Via (3554mil,2689mil) from Top to Bottom
+Via (3632mil,2685mil) from Top to Bottom
+Via (3457.642mil,3007.033mil) from Top to Bottom
+Via (3481mil,3036mil) from Top to Bottom
+Via (3582mil,3236mil) from Top to Bottom
+Via (3882mil,2937mil) from Top to Bottom
+Via (3872mil,3241mil) from Top to Bottom
+Via (3728mil,2770.5mil) from Top to Bottom
+Via (4499mil,2289.25mil) from Top to Bottom
+Via (3684mil,2707mil) from Top to Bottom
+Via (3285mil,2930mil) from Top to Bottom
+Via (2820mil,2709mil) from Top to Bottom
+Via (2874mil,2671mil) from Top to Bottom
+Via (2822mil,2755mil) from Top to Bottom
+Via (2584mil,2845mil) from Top to Bottom
+Via (3011mil,2814mil) from Top to Bottom
+Via (2850mil,2793mil) from Top to Bottom
+Via (3863mil,3311mil) from Top to Bottom
+Via (3695mil,2663mil) from Top to Bottom
+Via (2414mil,2936mil) from Top to Bottom
+Via (3116mil,2761mil) from Top to Bottom
+Via (3106mil,2724mil) from Top to Bottom
+Via (3248.694mil,2736.975mil) from Top to Bottom
+Via (3293.31mil,2782mil) from Top to Bottom
+Via (3189.306mil,2748.025mil) from Top to Bottom
+Via (3413mil,2736mil) from Top to Bottom
+Via (3060mil,2467mil) from Top to Bottom
+Via (3067mil,2643mil) from Top to Bottom
+Via (3002mil,2621mil) from Top to Bottom
+Via (3071mil,2503mil) from Top to Bottom
+Via (3014mil,2580mil) from Top to Bottom
+Via (2913mil,3065mil) from Top to Bottom
+Via (2641mil,2289mil) from Top to Bottom
+Via (2707mil,2257mil) from Top to Bottom
+Via (2859mil,2183mil) from Top to Bottom
+Via (3015.5mil,2941mil) from Top to Bottom
+Via (3319mil,2647.9mil) from Top to Bottom
+Via (2779mil,3149mil) from Top to Bottom
+Via (2939mil,3093mil) from Top to Bottom
+Via (3197mil,3511mil) from Top to Bottom
+Via (3158mil,3511mil) from Top to Bottom
+Via (2550mil,3092mil) from Top to Bottom
+Via (2592mil,2883mil) from Top to Bottom
+Via (2515mil,3717mil) from Top to Bottom
+Via (3421mil,3168mil) from Top to Bottom
+Via (3587mil,2171mil) from Top to Bottom
+Via (3663mil,2171mil) from Top to Bottom
+Via (3734mil,2172mil) from Top to Bottom
+Via (3174mil,3666mil) from Top to Bottom
+Via (2456mil,3102mil) from Top to Bottom
+Via (2510mil,3080mil) from Top to Bottom
+Via (1300mil,2818mil) from Top to Bottom
+Via (1228mil,2907mil) from Top to Bottom
+Via (1270mil,2907mil) from Top to Bottom
+Via (2386.7mil,2841.7mil) from Top to Bottom
+Via (2447mil,2866mil) from Top to Bottom
+Via (2578mil,2983mil) from Top to Bottom
+Via (2516mil,2884mil) from Top to Bottom
+Via (2590mil,2920mil) from Top to Bottom
+Via (2581mil,3149mil) from Top to Bottom
+Via (2833mil,3040mil) from Top to Bottom
+Via (4275.821mil,2487.821mil) from Top to Bottom
+Via (4775mil,1775mil) from Top to Bottom
+Via (1937.5mil,3535mil) from Top to Bottom
+Via (1575mil,3517.5mil) from Top to Bottom
+Via (1682.5mil,2947.5mil) from Top to Bottom
+Via (2082.5mil,2930mil) from Top to Bottom
+Via (2068.5mil,3102mil) from Top to Bottom
+Via (1765mil,3470mil) from Top to Bottom
+Via (1957.5mil,3440mil) from Top to Bottom
+Via (1410mil,3060mil) from Top to Bottom
+Via (1435mil,3085mil) from Top to Bottom
+Via (1495mil,3305mil) from Top to Bottom
+Via (1497.5mil,3362.5mil) from Top to Bottom
+Via (1302.5mil,3900mil) from Top to Bottom
+Via (1687.5mil,2195mil) from Top to Bottom
+Via (1561.81mil,2197.5mil) from Top to Bottom
+Via (3009mil,2188mil) from Top to Bottom
+Via (3821.06mil,2197.93mil) from Top to Bottom
+Via (4401.12mil,2196.06mil) from Top to Bottom
+Via (4522.44mil,2197.93mil) from Top to Bottom
+Via (4546.44mil,2330.2mil) from Top to Bottom
+Via (1467.5mil,3942.5mil) from Top to Bottom
+Via (1522.5mil,3942.5mil) from Top to Bottom
+Via (1550mil,3942.5mil) from Top to Bottom
+Via (1495mil,3942.5mil) from Top to Bottom
+Via (1950mil,3952.5mil) from Top to Bottom
+Via (1900mil,3952.5mil) from Top to Bottom
+Via (1850mil,3952.5mil) from Top to Bottom
+Via (2352.5mil,3950mil) from Top to Bottom
+Via (2250mil,3950mil) from Top to Bottom
+Via (2217.5mil,3995mil) from Top to Bottom
+Via (2300mil,3950mil) from Top to Bottom
+Via (1387.5mil,5012.5mil) from Top to Bottom
+Via (4662.5mil,1037.5mil) from Top to Bottom
+Via (5062.5mil,3987.5mil) from Top to Bottom
+Via (3125mil,3950mil) from Top to Bottom
+Via (3087.5mil,3987.5mil) from Top to Bottom
+Via (3175mil,3950mil) from Top to Bottom
+Via (3087.5mil,3950mil) from Top to Bottom
+Via (3275mil,3912.5mil) from Top to Bottom
+Via (3225mil,3950mil) from Top to Bottom
+Via (3150mil,3912.5mil) from Top to Bottom
+Via (3200mil,3912.5mil) from Top to Bottom
+Via (3237.5mil,3912.5mil) from Top to Bottom
+Via (3100mil,3912.5mil) from Top to Bottom
+Via (4770mil,1840mil) from Top to Bottom
+Via (3940mil,4107.5mil) from Top to Bottom
+Via (1037.5mil,3687.5mil) from Top to Bottom
+Via (3965mil,3997.5mil) from Top to Bottom
+Via (3939mil,2197mil) from Top to Bottom
+Via (1072.54mil,3953.74mil) from Top to Bottom
+Via (4769.9mil,3668.6mil) from Top to Bottom
+Via (4683.29mil,3652.85mil) from Top to Bottom
+Via (4769.9mil,3532.24mil) from Top to Bottom
+Via (4880.14mil,3601.67mil) from Top to Bottom
+Via (4769.9mil,3932.76mil) from Top to Bottom
+Via (4769.9mil,4067.3mil) from Top to Bottom
+Via (4769.9mil,4462.44mil) from Top to Bottom
+Via (4874.76mil,4400.89mil) from Top to Bottom
+Via (4877.26mil,4000.89mil) from Top to Bottom
+Via (4665mil,4005mil) from Top to Bottom
+Via (4330mil,2200mil) from Top to Bottom
+Via (1489.9mil,2196.85mil) from Top to Bottom
+Via (4876.2mil,2872.23mil) from Top to Bottom
+Via (4856.2mil,2932.23mil) from Top to Bottom
+Via (4786.68mil,2931.94mil) from Top to Bottom
+Via (4788mil,2811.5mil) from Top to Bottom
+Via (4820.5mil,2811.5mil) from Top to Bottom
+Via (4855.5mil,2811.5mil) from Top to Bottom
+Via (4820.97mil,2932.98mil) from Top to Bottom
+Via (4683.29mil,3548.92mil) from Top to Bottom
+Via (1418.75mil,2675mil) from Top to Bottom
+Via (1131.55mil,2574.8mil) from Top to Bottom
+Via (4562.5mil,5012.5mil) from Top to Bottom
+Via (3947.5mil,3885mil) from Top to Bottom
+Via (4664.76mil,4400.89mil) from Top to Bottom
+Via (3937.5mil,4920mil) from Top to Bottom
+Via (3762.5mil,4920mil) from Top to Bottom
+Via (3850mil,4977.5mil) from Top to Bottom
+Via (3900mil,4977.5mil) from Top to Bottom
+Via (3800mil,4977.5mil) from Top to Bottom
+Via (3950mil,4977.5mil) from Top to Bottom
+Via (3750mil,4977.5mil) from Top to Bottom
+Via (3925mil,5012.5mil) from Top to Bottom
+Via (3875mil,5012.5mil) from Top to Bottom
+Via (3825mil,5012.5mil) from Top to Bottom
+Via (3975mil,5012.5mil) from Top to Bottom
+Via (3575mil,3925mil) from Top to Bottom
+Via (1884.75mil,1579mil) from Top to Bottom
+Via (1748.75mil,1457mil) from Top to Bottom
+Via (1187.5mil,1762.5mil) from Top to Bottom
+Via (4312.5mil,1912.5mil) from Top to Bottom
+Via (4555mil,1962.5mil) from Top to Bottom
+Via (4237.5mil,1862.5mil) from Top to Bottom
+Via (4237.5mil,1937.5mil) from Top to Bottom
+Via (4162.5mil,1937.5mil) from Top to Bottom
+Via (4037.5mil,1937.5mil) from Top to Bottom
+Via (3962.5mil,1937.5mil) from Top to Bottom
+Via (4037.5mil,1862.5mil) from Top to Bottom
+Via (3962.5mil,1862.5mil) from Top to Bottom
+Via (3855mil,1912.5mil) from Top to Bottom
+Via (3612.5mil,1912.5mil) from Top to Bottom
+Via (3537.5mil,1937.5mil) from Top to Bottom
+Via (3537.5mil,1862.5mil) from Top to Bottom
+Via (3462.5mil,1937.5mil) from Top to Bottom
+Via (3462.5mil,1862.5mil) from Top to Bottom
+Via (3337.5mil,1862.5mil) from Top to Bottom
+Via (3337.5mil,1937.5mil) from Top to Bottom
+Via (3262.5mil,1937.5mil) from Top to Bottom
+Via (3262.5mil,1862.5mil) from Top to Bottom
+Via (3157.5mil,1912.5mil) from Top to Bottom
+Via (2912.5mil,1912.5mil) from Top to Bottom
+Via (2812.5mil,1937.5mil) from Top to Bottom
+Via (2812.5mil,1862.5mil) from Top to Bottom
+Via (2587.5mil,1937.5mil) from Top to Bottom
+Via (2512.5mil,1937.5mil) from Top to Bottom
+Via (2587.5mil,1862.5mil) from Top to Bottom
+Via (2512.5mil,1862.5mil) from Top to Bottom
+Via (2387.5mil,1912.5mil) from Top to Bottom
+Via (2137.5mil,1912.5mil) from Top to Bottom
+Via (2062.5mil,1937.5mil) from Top to Bottom
+Via (2062.5mil,1862.5mil) from Top to Bottom
+Via (1987.5mil,1937.5mil) from Top to Bottom
+Via (1987.5mil,1862.5mil) from Top to Bottom
+Via (1812.5mil,1839.5mil) from Top to Bottom
+Via (1655mil,1912.5mil) from Top to Bottom
+Via (1237.5mil,1462.5mil) from Top to Bottom
+Via (1237.5mil,1537.5mil) from Top to Bottom
+Via (1162.5mil,1537.5mil) from Top to Bottom
+Via (1237.5mil,1612.5mil) from Top to Bottom
+Via (1162.5mil,1612.5mil) from Top to Bottom
+Via (1264.5mil,1677.5mil) from Top to Bottom
+Via (1187.5mil,1687.5mil) from Top to Bottom
+Via (1337.5mil,1862.5mil) from Top to Bottom
+Via (1262.5mil,1862.5mil) from Top to Bottom
+Via (1187.5mil,1862.5mil) from Top to Bottom
+Via (1412.5mil,1912.5mil) from Top to Bottom
+Via (1262.5mil,1937.5mil) from Top to Bottom
+Via (1187.5mil,1937.5mil) from Top to Bottom
+Via (2660mil,4035mil) from Top to Bottom
+Via (2697.5mil,4070mil) from Top to Bottom
+Via (2732.5mil,4035mil) from Top to Bottom
+Via (2642.5mil,4440mil) from Top to Bottom
+Via (2642.5mil,4332.5mil) from Top to Bottom
+Via (2607.5mil,4357.5mil) from Top to Bottom
+Via (3166mil,3299mil) from Top to Bottom
+Via (1462.5mil,3710mil) from Top to Bottom
+Via (2565.75mil,3415mil) from Top to Bottom
+Via (2523.75mil,3287.5mil) from Top to Bottom
+Via (2406.25mil,2877.5mil) from Top to Bottom
+Via (2636.25mil,3247.5mil) from Top to Bottom
+Via (2721.25mil,3287.5mil) from Top to Bottom
+Via (1037.5mil,3844.98mil) from Top to Bottom
+Via (1037.5mil,3985.33mil) from Top to Bottom
+Via (1037.5mil,4142.82mil) from Top to Bottom
+Via (1037.5mil,4300.3mil) from Top to Bottom
+Via (1037.5mil,4457.78mil) from Top to Bottom
+Via (1037.5mil,4615.26mil) from Top to Bottom
+Via (1037.5mil,4772.74mil) from Top to Bottom
+Via (1544.98mil,5012.5mil) from Top to Bottom
+Via (1702.46mil,5012.5mil) from Top to Bottom
+Via (1859.94mil,5012.5mil) from Top to Bottom
+Via (2017.42mil,5012.5mil) from Top to Bottom
+Via (2174.9mil,5012.5mil) from Top to Bottom
+Via (2332.38mil,5012.5mil) from Top to Bottom
+Via (2489.86mil,5012.5mil) from Top to Bottom
+Via (2647.34mil,5012.5mil) from Top to Bottom
+Via (2804.82mil,5012.5mil) from Top to Bottom
+Via (2962.3mil,5012.5mil) from Top to Bottom
+Via (3119.78mil,5012.5mil) from Top to Bottom
+Via (3277.26mil,5012.5mil) from Top to Bottom
+Via (3434.74mil,5012.5mil) from Top to Bottom
+Via (3592.22mil,5012.5mil) from Top to Bottom
+Via (3749.7mil,5012.5mil) from Top to Bottom
+Via (4047.54mil,5012.99mil) from Top to Bottom
+Via (4222.54mil,5012.99mil) from Top to Bottom
+Via (4405.02mil,5012.5mil) from Top to Bottom
+Via (4719.98mil,5012.5mil) from Top to Bottom
+Via (4877.46mil,5012.5mil) from Top to Bottom
+Via (5062.5mil,4144.98mil) from Top to Bottom
+Via (5062.5mil,4302.46mil) from Top to Bottom
+Via (5062.5mil,4459.94mil) from Top to Bottom
+Via (5062.5mil,4617.42mil) from Top to Bottom
+Via (5062.5mil,4774.9mil) from Top to Bottom
+Via (5062.5mil,3830.02mil) from Top to Bottom
+Via (5062.5mil,3672.54mil) from Top to Bottom
+Via (5062.5mil,3515.06mil) from Top to Bottom
+Via (5062.5mil,3357.58mil) from Top to Bottom
+Via (5062.5mil,3200.1mil) from Top to Bottom
+Via (5062.5mil,3042.62mil) from Top to Bottom
+Via (5062.5mil,2885.14mil) from Top to Bottom
+Via (5062.5mil,2727.66mil) from Top to Bottom
+Via (5062.5mil,2570.18mil) from Top to Bottom
+Via (5062.5mil,2412.7mil) from Top to Bottom
+Via (5062.5mil,2255.22mil) from Top to Bottom
+Via (5062.5mil,2097.74mil) from Top to Bottom
+Via (5062.5mil,1940.26mil) from Top to Bottom
+Via (5062.5mil,1782.78mil) from Top to Bottom
+Via (5062.5mil,1625.3mil) from Top to Bottom
+Via (5062.5mil,1467.82mil) from Top to Bottom
+Via (5062.5mil,1310.33mil) from Top to Bottom
+Via (4819.98mil,1037.5mil) from Top to Bottom
+Via (4505.02mil,1037.5mil) from Top to Bottom
+Via (4347.54mil,1037.5mil) from Top to Bottom
+Via (4190.06mil,1037.5mil) from Top to Bottom
+Via (4032.58mil,1037.5mil) from Top to Bottom
+Via (3875.1mil,1037.5mil) from Top to Bottom
+Via (3717.62mil,1037.5mil) from Top to Bottom
+Via (3560.14mil,1037.5mil) from Top to Bottom
+Via (3402.66mil,1037.5mil) from Top to Bottom
+Via (3245.18mil,1037.5mil) from Top to Bottom
+Via (3087.7mil,1037.5mil) from Top to Bottom
+Via (2930.22mil,1037.5mil) from Top to Bottom
+Via (2772.74mil,1037.5mil) from Top to Bottom
+Via (2615.26mil,1037.5mil) from Top to Bottom
+Via (2457.78mil,1037.5mil) from Top to Bottom
+Via (2300.3mil,1037.5mil) from Top to Bottom
+Via (2142.81mil,1037.5mil) from Top to Bottom
+Via (1985.33mil,1037.5mil) from Top to Bottom
+Via (1827.85mil,1037.5mil) from Top to Bottom
+Via (1670.37mil,1037.5mil) from Top to Bottom
+Via (1512.89mil,1037.5mil) from Top to Bottom
+Via (1355.41mil,1037.5mil) from Top to Bottom
+Via (1038mil,2917mil) from Top to Bottom
+Via (1040mil,1230.53mil) from Top to Bottom
+Via (1040mil,1388.01mil) from Top to Bottom
+Via (1040mil,1545.49mil) from Top to Bottom
+Via (1040mil,1702.97mil) from Top to Bottom
+Via (1040mil,1860.45mil) from Top to Bottom
+Via (1040mil,2017.93mil) from Top to Bottom
+Via (1040mil,2175.41mil) from Top to Bottom
+Via (1040mil,2332.89mil) from Top to Bottom
+Via (1040mil,2490.37mil) from Top to Bottom
+Via (1040mil,2647.85mil) from Top to Bottom
+Via (2442.25mil,3224.5mil) from Top to Bottom
+Via (1187.5mil,4175.3mil) from Top to Bottom
+Via (3947.5mil,3760mil) from Top to Bottom
+Via (2702.5mil,4557.5mil) from Top to Bottom
+Via (2737.5mil,1862.5mil) from Top to Bottom
+Via (2737.5mil,1937.5mil) from Top to Bottom
+Via (2391.25mil,3592.5mil) from Top to Bottom
+Via (3413mil,3302mil) from Top to Bottom
+Via (4768mil,2874mil) from Top to Bottom
+Via (4470mil,2255.24mil) from Top to Bottom
+Via (4640mil,1840mil) from Top to Bottom
+Via (3366.5mil,1735.5mil) from Top to Bottom
+Via (4630mil,1962.5mil) from Top to Bottom
+Via (4630mil,2037.5mil) from Top to Bottom
+Via (4705mil,1962.5mil) from Top to Bottom
+Via (4705mil,2037.5mil) from Top to Bottom
+Via (4780mil,2037.5mil) from Top to Bottom
+Via (4855mil,1637.5mil) from Top to Bottom
+Via (1412.5mil,1962.5mil) from Top to Bottom
+Via (4010mil,3762.5mil) from Top to Bottom
+Via (4010mil,3872.5mil) from Top to Bottom
+Via (3657.5mil,4242.5mil) from Top to Bottom
+Via (4305mil,4460mil) from Top to Bottom
+Via (4272.5mil,4177.5mil) from Top to Bottom
+Via (4215mil,4242.5mil) from Top to Bottom
+Via (4215mil,4110mil) from Top to Bottom
+Via (4275mil,4045mil) from Top to Bottom
+Via (3715mil,4532.5mil) from Top to Bottom
+Via (1307.5mil,3985.32mil) from Top to Bottom
+Via (1277.5mil,3770.32mil) from Top to Bottom
+Via (1937.5mil,2085mil) from Top to Bottom
+Via (3615mil,4832.5mil) from Top to Bottom
+Via (4565mil,4182.5mil) from Top to Bottom
+Via (3990mil,3972.5mil) from Top to Bottom
+Via (3940mil,3972.5mil) from Top to Bottom
+Via (3940mil,4022.5mil) from Top to Bottom
+Via (3990mil,4022.5mil) from Top to Bottom
+Via (4057.5mil,1734.5mil) from Top to Bottom
+Via (3443.5mil,1735.5mil) from Top to Bottom
+Via (2703.5mil,1734.5mil) from Top to Bottom
+Via (2619mil,1734mil) from Top to Bottom
+Via (1953.5mil,1735.5mil) from Top to Bottom
+Via (1869.5mil,1735.5mil) from Top to Bottom
+Via (1897.5mil,1774.5mil) from Top to Bottom
+Via (1926.5mil,1774.5mil) from Top to Bottom
+Via (1730mil,1912.5mil) from Top to Bottom
+Via (2648.5mil,1772.5mil) from Top to Bottom
+Via (2676.5mil,1772.5mil) from Top to Bottom
+Via (3389.5mil,1773.5mil) from Top to Bottom
+Via (3418.5mil,1773.5mil) from Top to Bottom
+Via (4081.5mil,1775.5mil) from Top to Bottom
+Via (4701mil,1840.5mil) from Top to Bottom
+Via (1882.5mil,1858.5mil) from Top to Bottom
+Via (1853.5mil,2055.5mil) from Top to Bottom
+Via (1845.5mil,1938.5mil) from Top to Bottom
+Via (1816.25mil,1309mil) from Top to Bottom
+Via (1713.25mil,1309mil) from Top to Bottom
+Via (2160.25mil,1308mil) from Top to Bottom
+Via (1493.25mil,1308mil) from Top to Bottom
+Via (1771.75mil,1457mil) from Top to Bottom
+Via (1455.75mil,1457mil) from Top to Bottom
+Via (1431.75mil,1457mil) from Top to Bottom
+Via (1555.75mil,1352mil) from Top to Bottom
+Via (1531.75mil,1352mil) from Top to Bottom
+Via (1669.75mil,1353mil) from Top to Bottom
+Via (1646.75mil,1353mil) from Top to Bottom
+Via (1858.75mil,1579mil) from Top to Bottom
+Via (1356.75mil,1470mil) from Top to Bottom
+Via (1330.75mil,1470mil) from Top to Bottom
+Via (1393.25mil,1308mil) from Top to Bottom
+Via (1601.25mil,1300mil) from Top to Bottom
+Via (1916.25mil,1309mil) from Top to Bottom
+Via (2060.25mil,1308mil) from Top to Bottom
+Via (1960.25mil,1308mil) from Top to Bottom
+Via (2385.25mil,1308mil) from Top to Bottom
+Via (2485.25mil,1308mil) from Top to Bottom
+Via (2585.25mil,1308mil) from Top to Bottom
+Via (2273.25mil,1300mil) from Top to Bottom
+Via (1998.25mil,1465mil) from Top to Bottom
+Via (2023.25mil,1465mil) from Top to Bottom
+Via (2100.25mil,1456mil) from Top to Bottom
+Via (2124.25mil,1456mil) from Top to Bottom
+Via (2200.25mil,1351mil) from Top to Bottom
+Via (2224.25mil,1351mil) from Top to Bottom
+Via (2319.25mil,1351mil) from Top to Bottom
+Via (2343.25mil,1351mil) from Top to Bottom
+Via (2445.25mil,1457mil) from Top to Bottom
+Via (2421.25mil,1457mil) from Top to Bottom
+Via (2523.25mil,1466mil) from Top to Bottom
+Via (2547.25mil,1466mil) from Top to Bottom
+Via (3164.25mil,1307mil) from Top to Bottom
+Via (2934.25mil,1307mil) from Top to Bottom
+Via (2834.25mil,1307mil) from Top to Bottom
+Via (2734.25mil,1307mil) from Top to Bottom
+Via (3049.25mil,1306mil) from Top to Bottom
+Via (3264.25mil,1307mil) from Top to Bottom
+Via (3364.25mil,1307mil) from Top to Bottom
+Via (3633.25mil,1307mil) from Top to Bottom
+Via (3533.25mil,1307mil) from Top to Bottom
+Via (3433.25mil,1307mil) from Top to Bottom
+Via (3749.25mil,1300mil) from Top to Bottom
+Via (3865.25mil,1307mil) from Top to Bottom
+Via (3965.25mil,1307mil) from Top to Bottom
+Via (4340.25mil,1307mil) from Top to Bottom
+Via (4562.25mil,1307mil) from Top to Bottom
+Via (4662.25mil,1307mil) from Top to Bottom
+Via (4762.25mil,1307mil) from Top to Bottom
+Via (4451.25mil,1296mil) from Top to Bottom
+Via (4240.25mil,1307mil) from Top to Bottom
+Via (4140.25mil,1307mil) from Top to Bottom
+Via (2272.5mil,1657.5mil) from Top to Bottom
+Via (2273.5mil,1577.5mil) from Top to Bottom
+Via (1264.5mil,1707.5mil) from Top to Bottom
+Via (3048.5mil,1577.5mil) from Top to Bottom
+Via (3048.5mil,1502.5mil) from Top to Bottom
+Via (3747.5mil,1657.5mil) from Top to Bottom
+Via (3748.5mil,1577.5mil) from Top to Bottom
+Via (3748.5mil,1502.5mil) from Top to Bottom
+Via (4447.5mil,1657.5mil) from Top to Bottom
+Via (4447.5mil,1582.5mil) from Top to Bottom
+Via (4447.5mil,1517.5mil) from Top to Bottom
+Via (2784.25mil,1467mil) from Top to Bottom
+Via (2891.25mil,1456mil) from Top to Bottom
+Via (2998.25mil,1363mil) from Top to Bottom
+Via (2973.25mil,1363mil) from Top to Bottom
+Via (2759.25mil,1467mil) from Top to Bottom
+Via (2866.25mil,1456mil) from Top to Bottom
+Via (3098.25mil,1363mil) from Top to Bottom
+Via (3203.25mil,1457mil) from Top to Bottom
+Via (3228.25mil,1457mil) from Top to Bottom
+Via (3307.25mil,1467mil) from Top to Bottom
+Via (3332.25mil,1467mil) from Top to Bottom
+Via (3464.25mil,1466mil) from Top to Bottom
+Via (3489.25mil,1466mil) from Top to Bottom
+Via (3569.25mil,1456mil) from Top to Bottom
+Via (3594.25mil,1456mil) from Top to Bottom
+Via (3699.25mil,1352mil) from Top to Bottom
+Via (3674.25mil,1352mil) from Top to Bottom
+Via (3798.25mil,1351mil) from Top to Bottom
+Via (3823.25mil,1351mil) from Top to Bottom
+Via (3905.25mil,1456mil) from Top to Bottom
+Via (3930.25mil,1456mil) from Top to Bottom
+Via (4033.25mil,1466mil) from Top to Bottom
+Via (4008.25mil,1466mil) from Top to Bottom
+Via (4200.25mil,1466mil) from Top to Bottom
+Via (4175.25mil,1466mil) from Top to Bottom
+Via (4303.25mil,1456mil) from Top to Bottom
+Via (4278.25mil,1456mil) from Top to Bottom
+Via (4403.25mil,1351mil) from Top to Bottom
+Via (4378.25mil,1351mil) from Top to Bottom
+Via (4521.25mil,1351mil) from Top to Bottom
+Via (4496.25mil,1351mil) from Top to Bottom
+Via (4597.25mil,1458mil) from Top to Bottom
+Via (4622.25mil,1458mil) from Top to Bottom
+Via (4700.25mil,1466mil) from Top to Bottom
+Via (4725.25mil,1466mil) from Top to Bottom
+Via (1547.5mil,1557.5mil) from Top to Bottom
+Via (1603mil,1513mil) from Top to Bottom
+Via (2273.5mil,1515mil) from Top to Bottom
+Via (4113.5mil,1775.5mil) from Top to Bottom
+Via (4136.5mil,1734.5mil) from Top to Bottom
+Via (4065.25mil,1307mil) from Top to Bottom
+Via (1710.5mil,1730.5mil) from Top to Bottom
+Via (1710.5mil,1655.5mil) from Top to Bottom
+Via (1785.5mil,1655.5mil) from Top to Bottom
+Via (2119.5mil,1731.5mil) from Top to Bottom
+Via (2119.5mil,1656.5mil) from Top to Bottom
+Via (2044.5mil,1656.5mil) from Top to Bottom
+Via (1969.5mil,1656.5mil) from Top to Bottom
+Via (2430.5mil,1730.5mil) from Top to Bottom
+Via (2430.5mil,1655.5mil) from Top to Bottom
+Via (2505.5mil,1655.5mil) from Top to Bottom
+Via (2580.5mil,1655.5mil) from Top to Bottom
+Via (2897.5mil,1730.5mil) from Top to Bottom
+Via (2897.5mil,1655.5mil) from Top to Bottom
+Via (2822.5mil,1655.5mil) from Top to Bottom
+Via (2747.5mil,1655.5mil) from Top to Bottom
+Via (3203.5mil,1731.5mil) from Top to Bottom
+Via (3203.5mil,1656.5mil) from Top to Bottom
+Via (3278.5mil,1656.5mil) from Top to Bottom
+Via (3353.5mil,1656.5mil) from Top to Bottom
+Via (3597.5mil,1732.5mil) from Top to Bottom
+Via (3522.5mil,1657.5mil) from Top to Bottom
+Via (3447.5mil,1657.5mil) from Top to Bottom
+Via (3903.5mil,1732.5mil) from Top to Bottom
+Via (3903.5mil,1657.5mil) from Top to Bottom
+Via (3978.5mil,1657.5mil) from Top to Bottom
+Via (4053.5mil,1657.5mil) from Top to Bottom
+Via (4297.5mil,1731.5mil) from Top to Bottom
+Via (4297.5mil,1656.5mil) from Top to Bottom
+Via (4222.5mil,1656.5mil) from Top to Bottom
+Via (4147.5mil,1656.5mil) from Top to Bottom
+Via (4603.5mil,1730.5mil) from Top to Bottom
+Via (4603.5mil,1655.5mil) from Top to Bottom
+Via (4678.5mil,1655.5mil) from Top to Bottom
+Via (4753.5mil,1655.5mil) from Top to Bottom
+Via (4678.5mil,1730.5mil) from Top to Bottom
+Via (4162.5mil,1862.5mil) from Top to Bottom
+Via (4258.23mil,2194.16mil) from Top to Bottom
+Via (1430.47mil,2193.46mil) from Top to Bottom
+Via (4035.85mil,2194.58mil) from Top to Bottom
+Via (1166.74mil,3703.93mil) from Top to Bottom
+Via (4570mil,2257.5mil) from Top to Bottom
+Via (4756.5mil,2570mil) from Top to Bottom
+Via (4640mil,2570mil) from Top to Bottom
+Via (3181.25mil,2056.25mil) from Top to Bottom
+Via (4819mil,2644mil) from Top to Bottom
+Via (1742.5mil,2195mil) from Top to Bottom
+Via (1827.5mil,1735mil) from Top to Bottom
+Via (2577mil,1735mil) from Top to Bottom
+Via (1997.5mil,1735mil) from Top to Bottom
+Via (3320mil,1735mil) from Top to Bottom
+Via (2747.5mil,1735mil) from Top to Bottom
+Via (4015mil,1735mil) from Top to Bottom
+Via (3487.5mil,1735mil) from Top to Bottom
+Via (4218mil,1734mil) from Top to Bottom
+Via (4642.94mil,2123.5mil) from Top to Bottom
+Via (1264.5mil,1750mil) from Top to Bottom
+Via (1793mil,1735mil) from Top to Bottom
+Via (2032mil,1735mil) from Top to Bottom
+Via (2540mil,1735mil) from Top to Bottom
+Via (2785mil,1735mil) from Top to Bottom
+Via (3282.5mil,1735mil) from Top to Bottom
+Via (3525mil,1735mil) from Top to Bottom
+Via (3977.5mil,1735mil) from Top to Bottom
+Via (4179.5mil,1734mil) from Top to Bottom
+Via (4738mil,1748mil) from Top to Bottom
+Via (4856.5mil,2570mil) from Top to Bottom
+Via (4706.5mil,2520mil) from Top to Bottom
+Via (4806.5mil,2520mil) from Top to Bottom
+Via (1696.56mil,4799.17mil) from Top to Bottom
+Via (1670.37mil,4828.94mil) from Top to Bottom
+Via (1750mil,3980mil) from Top to Bottom
+Via (1725mil,4825mil) from Top to Bottom
+Via (2425mil,4812.5mil) from Top to Bottom
+Via (2475mil,4812.5mil) from Top to Bottom
+Via (2825mil,4812.5mil) from Top to Bottom
+Via (3495mil,4915mil) from Top to Bottom
+Via (2975mil,4912.5mil) from Top to Bottom
+Via (2525mil,4912.5mil) from Top to Bottom
+Via (2000mil,4912.5mil) from Top to Bottom
+Via (2875mil,4812.5mil) from Top to Bottom
+Via (2027.24mil,4812.56mil) from Top to Bottom
+Via (2074.74mil,4812.56mil) from Top to Bottom
+Via (3450mil,4887.5mil) from Top to Bottom
+Via (3650mil,4912.5mil) from Top to Bottom
+Via (3607.5mil,4907.5mil) from Top to Bottom
+Via (3632.5mil,4947.5mil) from Top to Bottom
+Via (3400mil,4812.5mil) from Top to Bottom
+Via (3450mil,4837.5mil) from Top to Bottom
+Via (3400mil,4862.5mil) from Top to Bottom
+Via (3350mil,4837.5mil) from Top to Bottom
+Via (3675mil,4962.5mil) from Top to Bottom
+Via (4422.5mil,4222.5mil) from Top to Bottom
+Via (4145mil,4375mil) from Top to Bottom
+Via (4390mil,4535mil) from Top to Bottom
+Via (4367.5mil,4340mil) from Top to Bottom
+Via (1400mil,3975mil) from Top to Bottom
+Via (1776.25mil,3981.25mil) from Top to Bottom
+Via (2055mil,3990mil) from Top to Bottom
+Via (4290mil,4262.5mil) from Top to Bottom
+Via (4412.5mil,4062.5mil) from Top to Bottom
+Via (4422.5mil,4262.5mil) from Top to Bottom
+Via (4425mil,4305mil) from Top to Bottom
+Via (4325mil,4375mil) from Top to Bottom
+Via (4195mil,4395mil) from Top to Bottom
+Via (1907.5mil,3182.5mil) from Top to Bottom
+Via (1950mil,3200mil) from Top to Bottom
+Via (2005mil,3312.5mil) from Top to Bottom
+Via (2037.5mil,3512.5mil) from Top to Bottom
+Via (1862.5mil,3187.5mil) from Top to Bottom
+Via (2005mil,3370mil) from Top to Bottom
+Via (2005mil,3447.5mil) from Top to Bottom
+Via (1550mil,4075mil) from Top to Bottom
+Via (1587.5mil,4075mil) from Top to Bottom
+Via (1625mil,4075mil) from Top to Bottom
+Via (1625mil,4112.5mil) from Top to Bottom
+Via (1587.5mil,4112.5mil) from Top to Bottom
+Via (1550mil,4112.5mil) from Top to Bottom
+Via (1550mil,4150mil) from Top to Bottom
+Via (1587.5mil,4150mil) from Top to Bottom
+Via (1625mil,4150mil) from Top to Bottom
+Via (1625mil,4187.5mil) from Top to Bottom
+Via (1587.5mil,4187.5mil) from Top to Bottom
+Via (1550mil,4187.5mil) from Top to Bottom
+Via (1512.5mil,4187.5mil) from Top to Bottom
+Via (1475mil,4187.5mil) from Top to Bottom
+Via (1475mil,4150mil) from Top to Bottom
+Via (1512.5mil,4150mil) from Top to Bottom
+Via (1512.5mil,4112.5mil) from Top to Bottom
+Via (1475mil,4112.5mil) from Top to Bottom
+Via (1475mil,4075mil) from Top to Bottom
+Via (1512.5mil,4075mil) from Top to Bottom
+Via (1550mil,4250mil) from Top to Bottom
+Via (1625mil,4250mil) from Top to Bottom
+Via (1475mil,4250mil) from Top to Bottom
+Via (1400mil,4250mil) from Top to Bottom
+Via (1325mil,4250mil) from Top to Bottom
+Via (1325mil,4175mil) from Top to Bottom
+Via (1400mil,4175mil) from Top to Bottom
+Via (1375mil,4125mil) from Top to Bottom
+Via (1700mil,4250mil) from Top to Bottom
+Via (1700mil,4175mil) from Top to Bottom
+Via (1700mil,4325mil) from Top to Bottom
+Via (1625mil,4325mil) from Top to Bottom
+Via (1550mil,4325mil) from Top to Bottom
+Via (1475mil,4325mil) from Top to Bottom
+Via (1400mil,4325mil) from Top to Bottom
+Via (1325mil,4325mil) from Top to Bottom
+Via (1325mil,4400mil) from Top to Bottom
+Via (1400mil,4400mil) from Top to Bottom
+Via (1475mil,4400mil) from Top to Bottom
+Via (1550mil,4400mil) from Top to Bottom
+Via (1625mil,4400mil) from Top to Bottom
+Via (1625mil,4475mil) from Top to Bottom
+Via (1550mil,4475mil) from Top to Bottom
+Via (1475mil,4475mil) from Top to Bottom
+Via (1400mil,4475mil) from Top to Bottom
+Via (1325mil,4475mil) from Top to Bottom
+Via (1400mil,4550mil) from Top to Bottom
+Via (1325mil,4550mil) from Top to Bottom
+Via (1475mil,4550mil) from Top to Bottom
+Via (1550mil,4550mil) from Top to Bottom
+Via (1625mil,4550mil) from Top to Bottom
+Via (1667.5mil,3957mil) from Top to Bottom
+Via (1978.94mil,4592.13mil) from Top to Bottom
+Via (1826.38mil,4592.13mil) from Top to Bottom
+Via (1926.38mil,4592.13mil) from Top to Bottom
+Via (1878.94mil,4592.13mil) from Top to Bottom
+Via (1925mil,4075mil) from Top to Bottom
+Via (1962.5mil,4075mil) from Top to Bottom
+Via (2000mil,4075mil) from Top to Bottom
+Via (2000mil,4112.5mil) from Top to Bottom
+Via (1962.5mil,4112.5mil) from Top to Bottom
+Via (1925mil,4112.5mil) from Top to Bottom
+Via (1925mil,4150mil) from Top to Bottom
+Via (1962.5mil,4150mil) from Top to Bottom
+Via (2000mil,4150mil) from Top to Bottom
+Via (2000mil,4187.5mil) from Top to Bottom
+Via (1962.5mil,4187.5mil) from Top to Bottom
+Via (1925mil,4187.5mil) from Top to Bottom
+Via (1887.5mil,4187.5mil) from Top to Bottom
+Via (1850mil,4187.5mil) from Top to Bottom
+Via (1850mil,4150mil) from Top to Bottom
+Via (1887.5mil,4150mil) from Top to Bottom
+Via (1887.5mil,4112.5mil) from Top to Bottom
+Via (1850mil,4112.5mil) from Top to Bottom
+Via (1850mil,4075mil) from Top to Bottom
+Via (1887.5mil,4075mil) from Top to Bottom
+Via (2000mil,4262.5mil) from Top to Bottom
+Via (1925mil,4262.5mil) from Top to Bottom
+Via (1850mil,4262.5mil) from Top to Bottom
+Via (1950mil,4337.5mil) from Top to Bottom
+Via (1850mil,4337.5mil) from Top to Bottom
+Via (1850mil,4537.5mil) from Top to Bottom
+Via (2000mil,4537.5mil) from Top to Bottom
+Via (1925mil,4537.5mil) from Top to Bottom
+Via (2325mil,4075mil) from Top to Bottom
+Via (2362.5mil,4075mil) from Top to Bottom
+Via (2400mil,4075mil) from Top to Bottom
+Via (2400mil,4112.5mil) from Top to Bottom
+Via (2362.5mil,4112.5mil) from Top to Bottom
+Via (2325mil,4112.5mil) from Top to Bottom
+Via (2325mil,4150mil) from Top to Bottom
+Via (2362.5mil,4150mil) from Top to Bottom
+Via (2400mil,4150mil) from Top to Bottom
+Via (2400mil,4187.5mil) from Top to Bottom
+Via (2362.5mil,4187.5mil) from Top to Bottom
+Via (2325mil,4187.5mil) from Top to Bottom
+Via (2287.5mil,4187.5mil) from Top to Bottom
+Via (2250mil,4187.5mil) from Top to Bottom
+Via (2250mil,4150mil) from Top to Bottom
+Via (2287.5mil,4150mil) from Top to Bottom
+Via (2287.5mil,4112.5mil) from Top to Bottom
+Via (2250mil,4112.5mil) from Top to Bottom
+Via (2250mil,4075mil) from Top to Bottom
+Via (2287.5mil,4075mil) from Top to Bottom
+Via (2100mil,4250mil) from Top to Bottom
+Via (2100mil,4325mil) from Top to Bottom
+Via (2175mil,4325mil) from Top to Bottom
+Via (2250mil,4325mil) from Top to Bottom
+Via (2325mil,4325mil) from Top to Bottom
+Via (2400mil,4325mil) from Top to Bottom
+Via (2475mil,4325mil) from Top to Bottom
+Via (2550mil,4400mil) from Top to Bottom
+Via (2475mil,4400mil) from Top to Bottom
+Via (2400mil,4400mil) from Top to Bottom
+Via (2325mil,4400mil) from Top to Bottom
+Via (2325mil,4475mil) from Top to Bottom
+Via (2400mil,4475mil) from Top to Bottom
+Via (2475mil,4475mil) from Top to Bottom
+Via (2545mil,4477mil) from Top to Bottom
+Via (2250mil,4475mil) from Top to Bottom
+Via (2175mil,4250mil) from Top to Bottom
+Via (2250mil,4250mil) from Top to Bottom
+Via (2325mil,4250mil) from Top to Bottom
+Via (2400mil,4250mil) from Top to Bottom
+Via (2475mil,4250mil) from Top to Bottom
+Via (2475mil,4175mil) from Top to Bottom
+Via (2475mil,4100mil) from Top to Bottom
+Via (2075mil,4075mil) from Top to Bottom
+Via (2175mil,4175mil) from Top to Bottom
+Via (2175mil,4125mil) from Top to Bottom
+Via (2125mil,4125mil) from Top to Bottom
+Via (2100mil,4175mil) from Top to Bottom
+Via (2325mil,4550mil) from Top to Bottom
+Via (2250mil,4550mil) from Top to Bottom
+Via (2175mil,4550mil) from Top to Bottom
+Via (2100mil,4550mil) from Top to Bottom
+Via (2400mil,4550mil) from Top to Bottom
+Via (2475mil,4550mil) from Top to Bottom
+Via (2550mil,4550mil) from Top to Bottom
+Via (2550mil,4100mil) from Top to Bottom
+Via (2550mil,4175mil) from Top to Bottom
+Via (2550mil,4250mil) from Top to Bottom
+Via (2550mil,4325mil) from Top to Bottom
+Via (2858.07mil,4526.87mil) from Top to Bottom
+Via (3675mil,4475mil) from Top to Bottom
+Via (3200mil,4075mil) from Top to Bottom
+Via (3200mil,4112.5mil) from Top to Bottom
+Via (3200mil,4150mil) from Top to Bottom
+Via (3200mil,4187.5mil) from Top to Bottom
+Via (3237.5mil,4187.5mil) from Top to Bottom
+Via (3275mil,4187.5mil) from Top to Bottom
+Via (3275mil,4150mil) from Top to Bottom
+Via (3237.5mil,4150mil) from Top to Bottom
+Via (3237.5mil,4112.5mil) from Top to Bottom
+Via (3275mil,4112.5mil) from Top to Bottom
+Via (3275mil,4075mil) from Top to Bottom
+Via (3237.5mil,4075mil) from Top to Bottom
+Via (3162.5mil,4075mil) from Top to Bottom
+Via (3125mil,4075mil) from Top to Bottom
+Via (3125mil,4112.5mil) from Top to Bottom
+Via (3162.5mil,4112.5mil) from Top to Bottom
+Via (3162.5mil,4150mil) from Top to Bottom
+Via (3125mil,4150mil) from Top to Bottom
+Via (3125mil,4187.5mil) from Top to Bottom
+Via (3162.5mil,4187.5mil) from Top to Bottom
+Via (2850mil,4100mil) from Top to Bottom
+Via (2850mil,4175mil) from Top to Bottom
+Via (2850mil,4250mil) from Top to Bottom
+Via (2850mil,4325mil) from Top to Bottom
+Via (3200mil,4247.5mil) from Top to Bottom
+Via (3275mil,4247.5mil) from Top to Bottom
+Via (3125mil,4247.5mil) from Top to Bottom
+Via (3050mil,4247.5mil) from Top to Bottom
+Via (3350mil,4247.5mil) from Top to Bottom
+Via (3350mil,4172.5mil) from Top to Bottom
+Via (3350mil,4097.5mil) from Top to Bottom
+Via (3350mil,4022.5mil) from Top to Bottom
+Via (3050mil,4172.5mil) from Top to Bottom
+Via (3050mil,4097.5mil) from Top to Bottom
+Via (2975mil,4247.5mil) from Top to Bottom
+Via (2975mil,4172.5mil) from Top to Bottom
+Via (2975mil,4097.5mil) from Top to Bottom
+Via (2900mil,4097.5mil) from Top to Bottom
+Via (2900mil,4172.5mil) from Top to Bottom
+Via (2900mil,4247.5mil) from Top to Bottom
+Via (2900mil,4322.5mil) from Top to Bottom
+Via (2975mil,4322.5mil) from Top to Bottom
+Via (3050mil,4322.5mil) from Top to Bottom
+Via (3125mil,4322.5mil) from Top to Bottom
+Via (3200mil,4322.5mil) from Top to Bottom
+Via (3275mil,4322.5mil) from Top to Bottom
+Via (3350mil,4322.5mil) from Top to Bottom
+Via (3350mil,4397.5mil) from Top to Bottom
+Via (3275mil,4397.5mil) from Top to Bottom
+Via (3200mil,4397.5mil) from Top to Bottom
+Via (3125mil,4397.5mil) from Top to Bottom
+Via (3050mil,4397.5mil) from Top to Bottom
+Via (2975mil,4397.5mil) from Top to Bottom
+Via (2900mil,4397.5mil) from Top to Bottom
+Via (2900mil,4472.5mil) from Top to Bottom
+Via (2975mil,4472.5mil) from Top to Bottom
+Via (3050mil,4472.5mil) from Top to Bottom
+Via (3125mil,4472.5mil) from Top to Bottom
+Via (3200mil,4472.5mil) from Top to Bottom
+Via (3275mil,4472.5mil) from Top to Bottom
+Via (3350mil,4472.5mil) from Top to Bottom
+Via (3350mil,4547.5mil) from Top to Bottom
+Via (3275mil,4547.5mil) from Top to Bottom
+Via (3200mil,4547.5mil) from Top to Bottom
+Via (3125mil,4547.5mil) from Top to Bottom
+Via (3050mil,4547.5mil) from Top to Bottom
+Via (2975mil,4547.5mil) from Top to Bottom
+Via (2900mil,4547.5mil) from Top to Bottom
+Via (3425mil,4022.5mil) from Top to Bottom
+Via (3425mil,4097.5mil) from Top to Bottom
+Via (3425mil,4172.5mil) from Top to Bottom
+Via (3425mil,4247.5mil) from Top to Bottom
+Via (3425mil,4322.5mil) from Top to Bottom
+Via (3500mil,4322.5mil) from Top to Bottom
+Via (3500mil,4247.5mil) from Top to Bottom
+Via (3500mil,4172.5mil) from Top to Bottom
+Via (3500mil,4097.5mil) from Top to Bottom
+Via (3500mil,4022.5mil) from Top to Bottom
+Via (3575mil,4022.5mil) from Top to Bottom
+Via (3575mil,4097.5mil) from Top to Bottom
+Via (3575mil,4172.5mil) from Top to Bottom
+Via (3575mil,4247.5mil) from Top to Bottom
+Via (3575mil,4322.5mil) from Top to Bottom
+Via (3325mil,4750mil) from Top to Bottom
+Via (3325mil,4700mil) from Top to Bottom
+Via (3375mil,4625mil) from Top to Bottom
+Via (3412.5mil,4732.5mil) from Top to Bottom
+Via (3370mil,4747.5mil) from Top to Bottom
+Via (3330mil,4657.5mil) from Top to Bottom
+Via (3450mil,4650mil) from Top to Bottom
+Via (4072.5mil,4727.5mil) from Top to Bottom
+Via (4072.5mil,4652.5mil) from Top to Bottom
+Via (4072.5mil,4617.5mil) from Top to Bottom
+Via (4035mil,4620mil) from Top to Bottom
+Via (4000mil,4620mil) from Top to Bottom
+Via (4072.5mil,4690mil) from Top to Bottom
+Via (4030mil,4727.5mil) from Top to Bottom
+Via (2925mil,4032.5mil) from Top to Bottom
+Via (5006.5mil,3046.5mil) from Top to Bottom
+Via (4951.5mil,3113mil) from Top to Bottom
+Via (4670mil,3327.5mil) from Top to Bottom
+Via (4940.06mil,3325.69mil) from Top to Bottom
+Via (4827.07mil,3326.87mil) from Top to Bottom
+Via (4743.31mil,3325mil) from Top to Bottom
+Via (4886.61mil,3325mil) from Top to Bottom
+Via (4900mil,4175mil) from Top to Bottom
+Via (4950mil,4150mil) from Top to Bottom
+Via (4950mil,4200mil) from Top to Bottom
+Via (4900mil,4225mil) from Top to Bottom
+Via (4725mil,4275mil) from Top to Bottom
+Via (4950mil,4250mil) from Top to Bottom
+Via (4675mil,4250mil) from Top to Bottom
+Via (4775mil,4275mil) from Top to Bottom
+Via (4670mil,4572.5mil) from Top to Bottom
+Via (4722.5mil,4572.5mil) from Top to Bottom
+Via (4725mil,4800mil) from Top to Bottom
+Via (4600mil,4800mil) from Top to Bottom
+Via (4607.5mil,4945mil) from Top to Bottom
+Via (4625mil,4572.5mil) from Top to Bottom
+Via (4600mil,4625mil) from Top to Bottom
+Via (4725mil,4950mil) from Top to Bottom
+Via (1807.5mil,3297.69mil) from Top to Bottom
+Via (1690.19mil,3357.5mil) from Top to Bottom
+Via (1677.69mil,3227.5mil) from Top to Bottom
+Via (1740.19mil,3165mil) from Top to Bottom
+Via (1807.69mil,3372.5mil) from Top to Bottom
+Via (1587.69mil,3397.5mil) from Top to Bottom
+Via (1600.19mil,3242.5mil) from Top to Bottom
+Via (1657.69mil,3062.5mil) from Top to Bottom
+Via (1722.69mil,2977.5mil) from Top to Bottom
+Via (1747.69mil,2902.5mil) from Top to Bottom
+Via (1872.69mil,2902.5mil) from Top to Bottom
+Via (1855.19mil,3072.5mil) from Top to Bottom
+Via (1905.69mil,2990.5mil) from Top to Bottom
+Via (1737.69mil,3062.5mil) from Top to Bottom
+Via (2000.19mil,3045mil) from Top to Bottom
+Via (2065.19mil,2896.5mil) from Top to Bottom
+Via (2102.69mil,3012.5mil) from Top to Bottom
+Via (1357.69mil,3450mil) from Top to Bottom
+Via (1287.69mil,3372.5mil) from Top to Bottom
+Via (1340.19mil,3175mil) from Top to Bottom
+Via (2310.19mil,3552.5mil) from Top to Bottom
+Via (2057.69mil,3617.5mil) from Top to Bottom
+Via (1037.69mil,3577.5mil) from Top to Bottom
+Via (1038mil,2968mil) from Top to Bottom
+Via (1517.69mil,3580mil) from Top to Bottom
+Via (1460.19mil,2900mil) from Top to Bottom
+Via (1307mil,2927mil) from Top to Bottom
+Via (1162.69mil,3577.5mil) from Top to Bottom
+Via (2355.19mil,3282.5mil) from Top to Bottom
+Via (1037.69mil,3059.98mil) from Top to Bottom
+Via (1037.69mil,3217.46mil) from Top to Bottom
+Via (1037.69mil,3374.94mil) from Top to Bottom
+Via (1037.69mil,3532.42mil) from Top to Bottom
+Via (2180.19mil,3137.5mil) from Top to Bottom
+Via (1514.69mil,3075.5mil) from Top to Bottom
+Via (1516.69mil,3140.5mil) from Top to Bottom
+Via (2425mil,3017.5mil) from Top to Bottom
+Via (2852mil,1268mil) from Top to Bottom
+Via (2912mil,1268mil) from Top to Bottom
+Via (3186mil,1268mil) from Top to Bottom
+Via (2732mil,1267.63mil) from Top to Bottom
+Via (2756mil,1267.63mil) from Top to Bottom
+Via (1230.02mil,5012.5mil) from Top to Bottom
+Via (4765.96mil,4335.39mil) from Top to Bottom
+Via (1255mil,1780mil) from Top to Bottom
+Via (3470mil,4555mil) from Top to Bottom
+Via (3575mil,4510.02mil) from Top to Bottom
+Via (3600mil,4480mil) from Top to Bottom
+Via (3668.25mil,3915mil) from Top to Bottom
+Via (3705mil,3910mil) from Top to Bottom
+Via (2769mil,3113mil) from Top to Bottom
+Via (3650mil,2284mil) from Top to Bottom
+Via (3493mil,2196mil) from Top to Bottom
+Via (3077mil,2413mil) from Top to Bottom
+Via (3889.44mil,2195mil) from Top to Bottom
+Via (2819mil,2424mil) from Top to Bottom
+Via (1930mil,3135mil) from Top to Bottom
+Via (4277.293mil,2933.607mil) from Top to Bottom
+Via (4207mil,2535mil) from Top to Bottom
+Via (3840mil,2265mil) from Top to Bottom
+Via (2081mil,2154mil) from Top to Bottom
+Via (2210mil,2152mil) from Top to Bottom
+Via (2487mil,2152mil) from Top to Bottom
+Via (2406mil,2152mil) from Top to Bottom
+Via (2488mil,2316mil) from Top to Bottom
+Via (2207mil,2385mil) from Top to Bottom
+Via (2685mil,2185mil) from Top to Bottom
+Via (2811mil,2181mil) from Top to Bottom
+Via (2957mil,2180mil) from Top to Bottom
+Via (3344mil,2152mil) from Top to Bottom
+Via (3428mil,2303mil) from Top to Bottom
+Via (3223mil,2405mil) from Top to Bottom
+Via (2497mil,2523mil) from Top to Bottom
+Via (2076mil,2521mil) from Top to Bottom
+Via (1809mil,2301mil) from Top to Bottom
+Via (1887.25mil,2196.06mil) from Top to Bottom
+Via (1676mil,2531mil) from Top to Bottom
+Via (1383mil,2269mil) from Top to Bottom
+Via (1247mil,2327mil) from Top to Bottom
+Via (1202mil,2329mil) from Top to Bottom
+Via (2291mil,2152mil) from Top to Bottom
+Via (2570mil,3937.5mil) from Top to Bottom
+Via (2540mil,3900mil) from Top to Bottom
+Via (2738mil,2183mil) from Top to Bottom
+Via (2844mil,2565mil) from Top to Bottom
+Via (2815mil,2541mil) from Top to Bottom
+Via (2726mil,2319mil) from Top to Bottom
+Via (2947mil,2367mil) from Top to Bottom
+Via (2950mil,2330mil) from Top to Bottom
+Via (3019mil,2336mil) from Top to Bottom
+Via (3138mil,2151mil) from Top to Bottom
+Via (3210mil,2301mil) from Top to Bottom
+Via (3249.97mil,2285.837mil) from Top to Bottom
+Via (3072mil,2314mil) from Top to Bottom
+Via (3191mil,2628mil) from Top to Bottom
+Via (1146mil,2913mil) from Top to Bottom
+Via (1105mil,2910mil) from Top to Bottom
+Via (3319mil,2911mil) from Top to Bottom
+Via (3380mil,2840mil) from Top to Bottom
+Via (1338mil,2227mil) from Top to Bottom
+Via (1549mil,2303mil) from Top to Bottom
+Via (1773mil,2331mil) from Top to Bottom
+Via (1997mil,2301mil) from Top to Bottom
+Via (2221.7mil,2328.7mil) from Top to Bottom
+Via (2277.3mil,2328.7mil) from Top to Bottom
+Via (3073mil,2376mil) from Top to Bottom
+Via (3879mil,2653mil) from Top to Bottom
+Via (4325mil,2582mil) from Top to Bottom
+Via (4266.732mil,2687.732mil) from Top to Bottom
+Via (4331mil,2804mil) from Top to Bottom
+Via (4191mil,2750mil) from Top to Bottom
+Via (4208mil,2320mil) from Top to Bottom
+Via (2622mil,3524mil) from Top to Bottom
+Via (2483mil,3400mil) from Top to Bottom
+Via (2549mil,3507mil) from Top to Bottom
+Via (2818mil,2991mil) from Top to Bottom
+Via (2982mil,3460mil) from Top to Bottom
+Via (2940mil,3460mil) from Top to Bottom
+Via (2922mil,3308.9mil) from Top to Bottom
+Via (2966mil,3228mil) from Top to Bottom
+Via (2968mil,3309mil) from Top to Bottom
+Via (2968mil,3553mil) from Top to Bottom
+Via (3225mil,3101mil) from Top to Bottom
+Via (3397mil,3542mil) from Top to Bottom
+Via (3360mil,3553mil) from Top to Bottom
+Via (3890mil,3815mil) from Top to Bottom
+Via (3773mil,3778mil) from Top to Bottom
+Via (4007.5mil,3817.5mil) from Top to Bottom
+Via (3058mil,3149mil) from Top to Bottom
+Via (3407.5mil,3217.5mil) from Top to Bottom
+Via (3290.5mil,3079.921mil) from Top to Bottom
+Via (3309.814mil,3046.909mil) from Top to Bottom
+Via (3228mil,3056mil) from Top to Bottom
+Via (3649mil,3306mil) from Top to Bottom
+Via (2488mil,2983mil) from Top to Bottom
+Via (2454mil,3063mil) from Top to Bottom
+Via (2482mil,3026mil) from Top to Bottom
+Via (3615.3mil,2852.7mil) from Top to Bottom
+Via (2944mil,3400mil) from Top to Bottom
+Via (3049mil,3479mil) from Top to Bottom
+Via (2951mil,3164mil) from Top to Bottom
+Via (3479.936mil,2952.021mil) from Top to Bottom
+Via (3591mil,3111mil) from Top to Bottom
+Via (3600mil,3073mil) from Top to Bottom
+Via (3073mil,2579mil) from Top to Bottom
+Via (2968mil,2889.58mil) from Top to Bottom
+Via (2919mil,2749mil) from Top to Bottom
+Via (2878mil,2743mil) from Top to Bottom
+Via (2977mil,2745mil) from Top to Bottom
+Via (3632mil,3788mil) from Top to Bottom
+Via (3672mil,3789mil) from Top to Bottom
+Via (3896mil,3680mil) from Top to Bottom
+Via (3845mil,3684mil) from Top to Bottom
+Via (3806mil,3684mil) from Top to Bottom
+Via (3741mil,3674mil) from Top to Bottom
+Via (3534mil,3764mil) from Top to Bottom
+Via (3700mil,3679mil) from Top to Bottom
+Via (3866mil,3479mil) from Top to Bottom
+Via (3828mil,3479mil) from Top to Bottom
+Via (3778mil,3479mil) from Top to Bottom
+Via (3741mil,3477mil) from Top to Bottom
+Via (3632mil,3582mil) from Top to Bottom
+Via (3656mil,3478mil) from Top to Bottom
+Via (3568mil,3478mil) from Top to Bottom
+Via (3606mil,3477mil) from Top to Bottom
+Via (2461mil,3709mil) from Top to Bottom
+Via (3732mil,3787mil) from Top to Bottom
+Via (2949.462mil,3729.538mil) from Top to Bottom
+Via (2899mil,3623mil) from Top to Bottom
+Via (2938mil,3656mil) from Top to Bottom
+Via (2856mil,3783.69mil) from Top to Bottom
+Via (2933mil,3850mil) from Top to Bottom
+Via (2907mil,3764mil) from Top to Bottom
+Via (2911mil,3704mil) from Top to Bottom
+Via (2870mil,3694mil) from Top to Bottom
+Via (2921mil,3232mil) from Top to Bottom
+Via (3113mil,2887.3mil) from Top to Bottom
+Via (3113mil,2925.3mil) from Top to Bottom
+Via (3030mil,2896mil) from Top to Bottom
+Via (3209mil,2863mil) from Top to Bottom
+Via (3283mil,2825mil) from Top to Bottom
+Via (3228mil,2900mil) from Top to Bottom
+Via (3238mil,2942mil) from Top to Bottom
+Via (4132mil,3914mil) from Top to Bottom
+Via (1547.5mil,1657.5mil) from Top to Bottom
+Via (3047mil,1642mil) from Top to Bottom
+Via (3123.25mil,1363mil) from Top to Bottom
+Via (3242mil,1267mil) from Top to Bottom
+Via (3597mil,1657mil) from Top to Bottom
+Via (3150mil,2687mil) from Top to Bottom
+Via (3876.387mil,3757mil) from Top to Bottom
+Via (2782mil,3593mil) from Top to Bottom
+Via (2816mil,3566mil) from Top to Bottom
+Via (2739.423mil,3477.31mil) from Top to Bottom
+Via (2750mil,3409mil) from Top to Bottom
+Via (3705mil,4080mil) from Top to Bottom
+Via (3780mil,3922.5mil) from Top to Bottom
+Via (3710mil,4170mil) from Top to Bottom
+Via (3660mil,4025mil) from Top to Bottom
+Via (3610mil,4065mil) from Top to Bottom
+Via (4195mil,4465mil) from Top to Bottom
+Via (1270mil,2040mil) from Top to Bottom
+Via (1967.5mil,2115mil) from Top to Bottom
+Via (2052mil,2008mil) from Top to Bottom
+Via (2870mil,2035mil) from Top to Bottom
+Via (3473.75mil,2120mil) from Top to Bottom
+Via (3490mil,2010mil) from Top to Bottom
+Via (4230mil,2005mil) from Top to Bottom
+Via (1288mil,1308mil) from Top to Bottom
+Via (4406.693mil,1843.307mil) from Top to Bottom
+Via (4450mil,1843.307mil) from Top to Bottom
+Via (4493.307mil,1843.307mil) from Top to Bottom
+Via (4406.693mil,1800mil) from Top to Bottom
+Via (4450mil,1800mil) from Top to Bottom
+Via (4493.307mil,1800mil) from Top to Bottom
+Via (4406.693mil,1756.693mil) from Top to Bottom
+Via (4450mil,1756.693mil) from Top to Bottom
+Via (4493.307mil,1756.693mil) from Top to Bottom
+Via (3793.307mil,1756.693mil) from Top to Bottom
+Via (3750mil,1756.693mil) from Top to Bottom
+Via (3706.693mil,1756.693mil) from Top to Bottom
+Via (3793.307mil,1800mil) from Top to Bottom
+Via (3750mil,1800mil) from Top to Bottom
+Via (3706.693mil,1800mil) from Top to Bottom
+Via (3793.307mil,1843.307mil) from Top to Bottom
+Via (3750mil,1843.307mil) from Top to Bottom
+Via (3706.693mil,1843.307mil) from Top to Bottom
+Via (3006.693mil,1843.307mil) from Top to Bottom
+Via (3050mil,1843.307mil) from Top to Bottom
+Via (3093.307mil,1843.307mil) from Top to Bottom
+Via (3006.693mil,1800mil) from Top to Bottom
+Via (3050mil,1800mil) from Top to Bottom
+Via (3093.307mil,1800mil) from Top to Bottom
+Via (3006.693mil,1756.693mil) from Top to Bottom
+Via (3050mil,1756.693mil) from Top to Bottom
+Via (3093.307mil,1756.693mil) from Top to Bottom
+Via (2318.307mil,1756.693mil) from Top to Bottom
+Via (2275mil,1756.693mil) from Top to Bottom
+Via (2231.693mil,1756.693mil) from Top to Bottom
+Via (2318.307mil,1800mil) from Top to Bottom
+Via (2275mil,1800mil) from Top to Bottom
+Via (2231.693mil,1800mil) from Top to Bottom
+Via (2318.307mil,1843.307mil) from Top to Bottom
+Via (2275mil,1843.307mil) from Top to Bottom
+Via (2231.693mil,1843.307mil) from Top to Bottom
+Via (1506.693mil,1843.307mil) from Top to Bottom
+Via (1550mil,1843.307mil) from Top to Bottom
+Via (1593.307mil,1843.307mil) from Top to Bottom
+Via (1506.693mil,1800mil) from Top to Bottom
+Via (1550mil,1800mil) from Top to Bottom
+Via (1593.307mil,1800mil) from Top to Bottom
+Via (1506.693mil,1756.693mil) from Top to Bottom
+Via (1550mil,1756.693mil) from Top to Bottom
+Via (1593.307mil,1756.693mil) from Top to Bottom
+
