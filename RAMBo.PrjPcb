@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for RAMBo
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -158,11 +158,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for RAMBo\Design Rule Check - RAMBo.html
+DocumentPath=Project Outputs\Assembly\BOM-Grouped_RAMBo_1.4a.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for RAMBo\Design Rule Check - RAMBo.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs\Assembly\Pick and Place_RAMBo_1.4a.csv
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=RAMBo.LOG
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs\Assembly\tab_bom_RAMBo_1.4a.txt
 DItemRevisionGUID=
 
 [Parameter1]
@@ -190,6 +202,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=
 ConfigurationType=
+
+[Generic_EDE]
+OutputDir=Project Outputs for RAMBo
 
 [OutputGroup1]
 Name=Netlist Outputs
