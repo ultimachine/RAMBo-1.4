@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Rambo.OutJob
 Description=
-TargetOutputMedium=PDF
+TargetOutputMedium=BoardFab
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -40,7 +40,7 @@ OutputName1=Schematic Prints
 OutputCategory1=Documentation
 OutputDocumentPath1=
 OutputVariantName1=
-OutputEnabled1=1
+OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=1
 OutputEnabled1_OutputMedium3=0
@@ -55,7 +55,7 @@ OutputName2=PCB Prints
 OutputCategory2=Documentation
 OutputDocumentPath2=
 OutputVariantName2=
-OutputEnabled2=1
+OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=2
 OutputEnabled2_OutputMedium3=0
@@ -133,7 +133,7 @@ OutputName3=PCB 3D Print (top)
 OutputCategory3=Documentation
 OutputDocumentPath3=
 OutputVariantName3=
-OutputEnabled3=1
+OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=3
 OutputEnabled3_OutputMedium3=0
@@ -148,7 +148,7 @@ OutputName4=Gerber Files
 OutputCategory4=Fabrication
 OutputDocumentPath4=
 OutputVariantName4=
-OutputEnabled4=0
+OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=1
@@ -162,7 +162,7 @@ OutputName5=NC Drill Files
 OutputCategory5=Fabrication
 OutputDocumentPath5=
 OutputVariantName5=
-OutputEnabled5=0
+OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=2
@@ -176,7 +176,7 @@ OutputName6=Report Board Stack
 OutputCategory6=Fabrication
 OutputDocumentPath6=
 OutputVariantName6=
-OutputEnabled6=0
+OutputEnabled6=1
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=0
 OutputEnabled6_OutputMedium3=3
@@ -243,7 +243,7 @@ Configuration9_Item1=CaptionAsName
 Configuration9_Name2=Filter
 Configuration9_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration9_Name3=General
-Configuration9_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=1|FormWidth=1280|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration9_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=1|FormWidth=1280|FormHeight=809|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration9_Name4=GroupOrder
 Configuration9_Item4=LibRef=True|Comment=True|Footprint=True
 Configuration9_Name5=OutputConfigurationParameter1
@@ -322,19 +322,19 @@ Configuration12_Item1=CaptionAsName
 Configuration12_Name2=Filter
 Configuration12_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration12_Name3=General
-Configuration12_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1952|FormHeight=880|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration12_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1303|FormHeight=809|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration12_Name4=GroupOrder
-Configuration12_Item4=DNI=True|MANUFACTURER #=True
+Configuration12_Item4=Comment=True|DNI=True|MANUFACTURER #=True
 Configuration12_Name5=SortOrder
 Configuration12_Item5=Designator=Up|Comment=Up|Footprint=Up
 Configuration12_Name6=VisibleOrder
-Configuration12_Item6=Designator=94|DISTRIBUTOR=94|DISTRIBUTOR #=94|Manufacturer=94|MANUFACTURER #=94|PART=94|Quantity=53|DNI=33|Comment=112|Footprint=119|Description=112|Part Description=178|VALUE=95|Tolerance=202|EE_SPEC=202
+Configuration12_Item6=Designator=438|DISTRIBUTOR=90|DISTRIBUTOR #=90|Manufacturer=90|MANUFACTURER #=90|PART=90|Quantity=82|DNI=20|Comment=252|Footprint=119|Description=230|Part Description=80|VALUE=20|Tolerance=20|EE_SPEC=20
 OutputType13=PCB 3D Print
 OutputName13=PCB 3D Print (bottom)
 OutputCategory13=Documentation
 OutputDocumentPath13=
 OutputVariantName13=
-OutputEnabled13=1
+OutputEnabled13=0
 OutputEnabled13_OutputMedium1=0
 OutputEnabled13_OutputMedium2=4
 OutputEnabled13_OutputMedium3=0
@@ -378,7 +378,7 @@ OutputName16=Designators
 OutputCategory16=Documentation
 OutputDocumentPath16=
 OutputVariantName16=
-OutputEnabled16=1
+OutputEnabled16=0
 OutputEnabled16_OutputMedium1=0
 OutputEnabled16_OutputMedium2=5
 OutputEnabled16_OutputMedium3=0
@@ -479,7 +479,7 @@ OutputFileNameMulti3==ProjectTitle+_+projectBoardVersion+projectBoardRevision
 UseOutputNameForMulti3=0
 OutputFileNameSpecial3=
 OpenOutput3=1
-OutputFilePath4=C:\Users\Johnny-x-9c\Documents\Projects\Einsy-Rambo\board\Project Outputs\Assembly\
+OutputFilePath4=C:\Users\Johnny-x-9c\Documents\Projects\Rambo Altium\Project Outputs\Assembly\
 ReleaseManaged4=0
 OutputBasePath4=Project Outputs\
 OutputPathMedia4=[Media Name]
@@ -533,7 +533,7 @@ OpenGerberOutput3=0
 OpenNCDrillOutput3=0
 OpenIPCOutput3=0
 EnableReload3=0
-RelativeOutputPath4=C:\Users\Johnny-x-9c\Documents\Projects\Einsy-Rambo\board\Project Outputs\Assembly\
+RelativeOutputPath4=C:\Users\Johnny-x-9c\Documents\Projects\Rambo Altium\Project Outputs\Assembly\
 OpenOutputs4=1
 AddToProject4=1
 TimestampFolder4=0
