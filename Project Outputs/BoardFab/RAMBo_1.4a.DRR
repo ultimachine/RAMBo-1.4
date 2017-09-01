@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: RAMBo.PcbDoc   9/1/2017  2:06:04 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : RAMBo_1.4a.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.254mm (10mil)                                           Round             147       PTH        404.89mm (15.94inch)
+T2      0.381mm (15mil)                                           Round             742       PTH        2715.36mm (106.90inch)
+T3      0.5mm (20mil)                                             Round             280       PTH        1024.49mm (40.33inch)
+T4      0.6mm (24mil)                                             Round             10        PTH        52.93mm (2.08inch)
+T5      0.7mm (28mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T6      0.889mm (35mil)                                           Round             4         PTH        35.85mm (1.41inch)
+T7      0.9mm (35mil)                                             Round             20        PTH        52.65mm (2.07inch)
+T8      0.95mm (37mil)                                            Round             16        PTH        64.62mm (2.54inch)
+T9      1mm (39mil)                                               Round             2         PTH        5.00mm (0.20inch)
+T10     1.016mm (40mil)                                           Round             130       PTH        729.13mm (28.71inch)
+T11     1.397mm (55mil)                                           Round             16        PTH        110.47mm (4.35inch)
+T12     1.499mm (59mil)                                           Round             2         PTH        7.01mm (0.28inch)
+T13     2.2mm (87mil)                                             Round             2         PTH        12.00mm (0.47inch)
+T14     3mm (118mil)                                              Round             4         NPTH       288.29mm (11.35inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1376
+
+Total Processing Time (hh:mm:ss) : 00:00:02

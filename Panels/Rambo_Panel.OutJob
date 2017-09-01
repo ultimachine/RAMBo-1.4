@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Rambo_Panel.OutJob
+Name=
 Description=
 TargetOutputMedium=BoardFab
 VariantName=[No Variations]
@@ -29,8 +29,8 @@ OutputMedium1_Printer=
 OutputMedium1_PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium2=BoardFab
 OutputMedium2_Type=GeneratedFiles
-OutputMedium3=BOM
-OutputMedium3_Type=GeneratedFiles
+OutputMedium3=3D Print
+OutputMedium3_Type=Publish
 OutputType1=PCB Print
 OutputName1=PCB Prints
 OutputCategory1=Documentation
@@ -74,18 +74,18 @@ Configuration1_Name15=OutputConfigurationParameter15
 Configuration1_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 PcbPrintPreferences1=
 OutputType2=PCB 3D Print
-OutputName2=PCB 3D Print
+OutputName2=PCB 3D Print Top
 OutputCategory2=Documentation
 OutputDocumentPath2=
 OutputVariantName2=
 OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
-OutputEnabled2_OutputMedium3=0
+OutputEnabled2_OutputMedium3=1
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.50|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=Letter|PaperIndex=1
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=1|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=Letter|PaperIndex=1
 Configuration2_Name1=OutputConfigurationParameter1
-Configuration2_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=41400000|ViewY=40900000|LookAtX=34400000|LookAtY=25250000|LookAtZ=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=3.743961352657E-6|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ViewConfig=
+Configuration2_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=41400000|ViewY=40900000|LookAtX=34400000|LookAtY=25250000|LookAtZ=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=3.743961352657E-6|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ViewConfig= 
 OutputType3=Gerber
 OutputName3=Gerber Files
 OutputCategory3=Fabrication
@@ -135,6 +135,19 @@ OutputEnabled6_OutputMedium3=0
 OutputDefault6=0
 Configuration6_Name1=OutputConfigurationParameter1
 Configuration6_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False|GenerateTextFormat=True
+OutputType7=PCB 3D Print
+OutputName7=PCB 3d Print Bot
+OutputCategory7=Documentation
+OutputDocumentPath7=
+OutputVariantName7=
+OutputEnabled7=0
+OutputEnabled7_OutputMedium1=0
+OutputEnabled7_OutputMedium2=0
+OutputEnabled7_OutputMedium3=2
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=1|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=Letter|PaperIndex=1
+Configuration7_Name1=OutputConfigurationParameter1
+Configuration7_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=41400000|ViewY=40900000|LookAtX=34400000|LookAtY=25250000|LookAtZ=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=3.743961352657E-6|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=False|ViewConfig= 
 
 [PublishSettings]
 OutputFilePath2=C:\Users\Johnny-x-9c\Documents\Projects\Rambo Altium\Panels\Project Outputs\
@@ -147,22 +160,36 @@ OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
 OutputFileName2=
 OutputFileNameMulti2==ProjectTitle+_+projectVersion
-UseOutputNameForMulti2=1
+UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
 OpenOutput2=1
-OutputFilePath3=C:\Users\johnny\Documents\AMBIT\./ProjectOutputs\
+OutputFilePath3=C:\Users\Johnny-x-9c\Documents\Projects\Rambo Altium\Panels\Project Outputs\
 ReleaseManaged3=0
-OutputBasePath3=./ProjectOutputs\
+OutputBasePath3=Project Outputs\
 OutputPathMedia3=
 OutputPathMediaValue3=
-OutputPathOutputer3=[Output Type]
+OutputPathOutputer3=
 OutputPathOutputerPrefix3=
 OutputPathOutputerValue3=
-OutputFileName3=
-OutputFileNameMulti3==ProjectTitle+_+projectVersion
+OutputFileName3=PCB 3D Print.PDF
+OutputFileNameMulti3=
 UseOutputNameForMulti3=0
 OutputFileNameSpecial3=
 OpenOutput3=1
+PromptOverwrite3=1
+PublishMethod3=0
+ZoomLevel3=50
+FitSCHPrintSizeToDoc3=0
+FitPCBPrintSizeToDoc3=0
+GenerateNetsInfo3=1
+MarkPins3=1
+MarkNetLabels3=1
+MarkPortsId3=1
+GenerateTOC3=1
+ShowComponentParameters3=1
+GlobalBookmarks3=0
+PDFACompliance3=Disabled
+PDFVersion3=Default
 
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\Users\Johnny-x-9c\Documents\Projects\Rambo Altium\Panels\Project Outputs\
@@ -175,14 +202,6 @@ OpenGerberOutput2=0
 OpenNCDrillOutput2=0
 OpenIPCOutput2=0
 EnableReload2=0
-RelativeOutputPath3=C:\Users\johnny\Documents\AMBIT\./ProjectOutputs\
+RelativeOutputPath3=C:\Users\Johnny-x-9c\Documents\Projects\Rambo Altium\Panels\Project Outputs\
 OpenOutputs3=1
-AddToProject3=1
-TimestampFolder3=0
-UseOutputName3=0
-OpenODBOutput3=0
-OpenGerberOutput3=0
-OpenNCDrillOutput3=0
-OpenIPCOutput3=0
-EnableReload3=0
 

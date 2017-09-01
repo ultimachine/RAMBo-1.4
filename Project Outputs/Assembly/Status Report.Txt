@@ -1,0 +1,10 @@
+Output: BOM-Grouped
+Type  : BOM
+From  : Project [RAMBo.PrjPcb]
+   Generated File[BOM-Grouped_RAMBo_1.4a.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:51:32 PM On 9/1/2017

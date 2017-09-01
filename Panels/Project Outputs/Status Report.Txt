@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : PCB Document [Rambo_Panel.PcbDoc]
+   Generated File[Rambo_Panel_1.4a.2.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:33:32 PM On 9/1/2017

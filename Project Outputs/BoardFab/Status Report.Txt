@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : PCB Document [RAMBo.PcbDoc]
+   Generated File[RAMBo_1.4a.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:06:12 PM On 9/1/2017
