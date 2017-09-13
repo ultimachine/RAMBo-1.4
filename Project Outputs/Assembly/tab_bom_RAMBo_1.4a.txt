@@ -3,7 +3,7 @@ Comment	Description	Designator	Footprint	MANUFACTURER #	LibRef
 "0r"	"RESISTOR, American symbol"	"R12, R17, R18, R22, R26"	"R0603"	"CR0603J000ELF"	"R-US_R0603"
 "0r1"	"RESISTOR, American symbol"	"R4, R7, R8, R10, R14, R15, R19, R20, R23, R24"	"R1206"	"CRM1206-FX-R100ELF"	"R-US_R1206"
 "0.22uF"	"CAPACITOR, European symbol"	"C31, C36, C41, C46, C51"	"C0603"	"CC0603KRX7R7BB224 "	"C-EUC0603"
-"1k"	"Array Chip Resistor   Source: RS Component / Phycomp"	"RN5"	"CAY16"	"ERJ-3EKF1001V"	"4R-NCAY16"
+"1k"	"RES ARRAY 4 RES 1K OHM 1206"	"RN5"	"CAY16"	"CAY16-102J4LF"	"4R-NCAY16"
 "1K"	"RESISTOR, American symbol"	"R33, R34, R35"	"R0603"	"ERJ-3EKF1001V"	"R-US_R0603"
 "1M"	"RESISTOR, American symbol"	"R72"	"R0402"	"ERJ2GEJ105X"	"R-US_R0402"
 "1uF"	"CAPACITOR, American symbol"	"C40"	"C0805"	"GRM21BR71H105KA12L"	"C-USC0805"

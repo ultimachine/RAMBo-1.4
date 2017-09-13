@@ -4,8 +4,8 @@ C:\Users\Johnny-x-9c\Documents\Projects\Rambo Altium\Project Outputs\Assembly\Pi
 ========================================================================================================================
 File Design Information:
 
-Date:       01/09/17
-Time:       16:16
+Date:       13/09/17
+Time:       10:35
 Revision:   Not in VersionControl
 Variant:    No variations
 Units used: mm
@@ -322,7 +322,7 @@ Units used: mm
 "C14","100nF","TopLayer","C0603","48.3870","77.7240","270","CAPACITOR, European symbol","48.3870","77.7240"
 "C12","22pF","TopLayer","C0603","45.8470","74.9935","180","CAPACITOR, European symbol","45.8470","74.9935"
 "C13","22pF","TopLayer","C0603","43.1800","77.7240","270","CAPACITOR, European symbol","43.1800","77.7240"
-"RN5","1k","TopLayer","CAY16","56.5785","82.2325","90","Array Chip Resistor   Source: RS Component / Phycomp","56.5785","82.2325"
+"RN5","1k","TopLayer","CAY16","56.5785","82.2325","90","RES ARRAY 4 RES 1K OHM 1206","56.5785","82.2325"
 "Z2","CG0603MLC-05E","TopLayer","R0603","39.2430","86.1060","270","RESISTOR, American symbol","39.2430","86.1060"
 "Z1","CG0603MLC-05E","TopLayer","R0603","39.2430","83.0580","90","RESISTOR, American symbol","39.2430","83.0580"
 "X17","3x2M","TopLayer","2X03","55.6895","86.8045","0","PIN HEADER","55.6895","86.8045"
